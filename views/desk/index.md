@@ -27,7 +27,7 @@ Each export, in order, from the researcher to the correspondent; the semantic gr
 
 One step per release, in this order, so that no release carries the whole pass.
 
-The plan in full is [among the briefs](../../admin/briefs/index.html), as written on 24 October.
+The plan in full is [among the briefs](https://team.php.oct.2026.newsroom.sgit.ai/admin/briefs/), as written on 24 October.
 
 ## What is still stale
 
@@ -60,17 +60,17 @@ The plan in full is [among the briefs](../../admin/briefs/index.html), as writte
 
 | Page | Phrases |
 |---|---|
-| [In context: php2shell against Kaminsky, Heartbleed, Shellshock, Log4Shell and the last PHP RCE](../../context/index.html)`context/index.html` | *as of 16:05 UTC on 24 October* |
-| [Claims waiting for review](../../claims/review/index.html)`claims/review/index.html` | *as of 23 October 2026* *As of 22 October 2026* *as of 22 October* *As of 23 October 2026* |
-| [Wikipedia's PHP2Shell article, read as one of its reviewers would](../../wikipedia/php2shell/review/index.html)`wikipedia/php2shell/review/index.html` | *as of 16:05 UTC on 24 October* |
-| [Briefing for a curious reader: What happened, does it affect me, and should I worry?](../../briefings/everyone/index.html)`briefings/everyone/index.html` | *As of 16:05 UTC on 24 October* |
-| [Briefing for a board member or executive: Are we exposed, what is it costing us, and who owns the decision to pull a system?](../../briefings/board/index.html)`briefings/board/index.html` | *As of 16:05 UTC on 24 October* |
-| [Briefing for a CFO: What is the financial exposure, what does downtime cost against breach cost, and will insurance respond?](../../briefings/cfo/index.html)`briefings/cfo/index.html` | *As of 16:05 UTC on 24 October* |
-| [Who is reading? The readers of this site, mapped](../../start/index.html)`start/index.html` | *As of 16:05 UTC on 24 October* |
-| [PHP in October 2026: two critical security flaws, tracked as evidence](../../index.html)`index.html` | *As of 16:05 UTC on 24 October* |
-| [Fact-check: how sure can you be of each claim](../../factcheck/index.html)`factcheck/index.html` | *as of 21 October* |
-| [Investigations: one question, chased down](../../factcheck/investigations/index.html)`factcheck/investigations/index.html` | *as of 2026-10-24T01:50* |
-| [How much PHP is there, and where does '70%' come from?](../../factcheck/investigations/php-share/index.html)`factcheck/investigations/php-share/index.html` | *as of 2026-10-24T01:50* *as of 23 October* *as of 21 October* |
+| [In context: php2shell against Kaminsky, Heartbleed, Shellshock, Log4Shell and the last PHP RCE](https://php.oct.2026.newsroom.sgit.ai/context/)`context/index.html` | *as of 16:05 UTC on 24 October* |
+| [Claims waiting for review](https://php.oct.2026.newsroom.sgit.ai/claims/review/)`claims/review/index.html` | *as of 23 October 2026* *As of 22 October 2026* *as of 22 October* *As of 23 October 2026* |
+| [Wikipedia's PHP2Shell article, read as one of its reviewers would](https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/review/)`wikipedia/php2shell/review/index.html` | *as of 16:05 UTC on 24 October* |
+| [Briefing for a curious reader: What happened, does it affect me, and should I worry?](https://php.oct.2026.newsroom.sgit.ai/briefings/everyone/)`briefings/everyone/index.html` | *As of 16:05 UTC on 24 October* |
+| [Briefing for a board member or executive: Are we exposed, what is it costing us, and who owns the decision to pull a system?](https://php.oct.2026.newsroom.sgit.ai/briefings/board/)`briefings/board/index.html` | *As of 16:05 UTC on 24 October* |
+| [Briefing for a CFO: What is the financial exposure, what does downtime cost against breach cost, and will insurance respond?](https://php.oct.2026.newsroom.sgit.ai/briefings/cfo/)`briefings/cfo/index.html` | *As of 16:05 UTC on 24 October* |
+| [Who is reading? The readers of this site, mapped](https://php.oct.2026.newsroom.sgit.ai/start/)`start/index.html` | *As of 16:05 UTC on 24 October* |
+| [PHP in October 2026: two critical security flaws, tracked as evidence](https://php.oct.2026.newsroom.sgit.ai/)`index.html` | *As of 16:05 UTC on 24 October* |
+| [Fact-check: how sure can you be of each claim](https://php.oct.2026.newsroom.sgit.ai/factcheck/)`factcheck/index.html` | *as of 21 October* |
+| [Investigations: one question, chased down](https://php.oct.2026.newsroom.sgit.ai/factcheck/investigations/)`factcheck/investigations/index.html` | *as of 2026-10-24T01:50* |
+| [How much PHP is there, and where does '70%' come from?](https://php.oct.2026.newsroom.sgit.ai/factcheck/investigations/php-share/)`factcheck/investigations/php-share/index.html` | *as of 2026-10-24T01:50* *as of 23 October* *as of 21 October* |
 
 Pages kept as written by design are not scanned: articles/, updates/, versions/, whatsnew/, admin/, readings/, brief/, corrections/, feedback/, sherpa/, team/, pulse/, sources/, facts/, views/. Stories, updates, versions of the state of affairs, release notes, briefs, outside readings and source pages are dated and kept as written by design; a dated phrase in them is history, not staleness. Facts pages carry every version of a fact. The state of affairs gives each measure its own as-of time on purpose. A phrase that is a source's own date, rightly kept, is accepted in `data/desk.json` and leaves the report.
 
@@ -92,10 +92,10 @@ What the correspondent corrected in the journalist's work, one row per correctio
 
 ## Vault claims not yet reviewed (0)
 
-Listed with their sources on [the claims waiting for review](../../claims/review/index.html#g-not-yet-reviewed).
+Listed with their sources on [the claims waiting for review](https://php.oct.2026.newsroom.sgit.ai/claims/review/#g-not-yet-reviewed).
 
-Computed from [data/desk.json](../../data/desk.json), the pages of this build and the vault's claims, at vault head `87795d121200`.
+Computed from [data/desk.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/desk.json), the pages of this build and the vault's claims, at vault head `87795d121200`.
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/views/desk/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/desk/index.html

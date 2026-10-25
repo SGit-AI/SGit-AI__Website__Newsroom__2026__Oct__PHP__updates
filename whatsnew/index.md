@@ -8,9 +8,27 @@ The story · what's new
 
 # What's new
 
-Every release of this site, newest first, with what changed in it for readers: facts added, facts whose status changed, the briefings that moved and the sections that were rewritten. Releases you have not seen since your last visit are marked. To follow along, subscribe to [the feed](../feed.xml).
+Every release of this site, newest first, with what changed in it for readers: facts added, facts whose status changed, the briefings that moved and the sections that were rewritten. Releases you have not seen since your last visit are marked. To follow along, subscribe to [the feed](https://php.oct.2026.newsroom.sgit.ai/feed.xml).
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
+
+## v0.22.10 · 25 October 2026new since your last visit
+
+the split, for every agent: a brief with where each member writes today, after the records and data move and after the cutover, the repositories its session needs and a card field for them; on a split site the 404 page sends an address another host owns (a twin, a view address, an asset, a data file) to that host, route.js allowing only the route's own hosts
+
+No reader-facing section changed in this release.
+
+## v0.22.9 · 25 October 2026new since your last visit
+
+The Sherpa's brief on interviews and outreach: three waves of people and organisations the site already maps, what each is given first, the topic, four formats, and the rules (board 331 to 334)
+
+No reader-facing section changed in this release.
+
+## v0.22.8 · 25 October 2026new since your last visit
+
+observability drained the telemetry lane on 25 October (150 events, the lane empty) with a new command-line drainer that publishes before it marks; its debrief on the member's page /admin/agents/observability/; board 330 (telemetry from local test servers, for dev)
+
+No reader-facing section changed in this release.
 
 ## v0.22.7 · 25 October 2026new since your last visit
 
@@ -202,7 +220,7 @@ No reader-facing section changed in this release.
 
 Scheduled tasks on the site: /team/schedule/ shows what the account actually runs, each task checked against its card (times, session, prompt), and /team/schedule/wiring/ gives each agent the steps to wire its own tasks; two stale one-shot tasks deleted and five prompts set to their cards
 
-1 fact reworded or re-sourced: [no-confirmed-compromise](../facts/no-confirmed-compromise/index.html).
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
 
 ### Briefings that changed
 JJordanBoard member or executive · v16RRobinCISO · v15QQuinnCFO · v16RRileyMedia and communications team · v12AAlexCurious reader · v14TTaylorProject or programme manager · v11MMorganData protection officer · v9
@@ -356,7 +374,7 @@ No reader-facing section changed in this release.
 
 Journalist: evidence vault at 8c16a64a7cf6, 94 claims reviewed, compromise rows and as-of lines to 16:05 UTC on 24 October
 
-1 fact reworded or re-sourced: [no-confirmed-compromise](../facts/no-confirmed-compromise/index.html).
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
 
 ### Briefings that changed
 JJordanBoard member or executive · v12RRobinCISO · v12QQuinnCFO · v12RRileyMedia and communications team · v10AAlexCurious reader · v10TTaylorProject or programme manager · v9MMorganData protection officer · v6
@@ -497,7 +515,7 @@ No reader-facing section changed in this release.
 
 the evidence vault at 1f38e70921b2 (328 sources) and the state of affairs v3: a vendor's claim of a break-in withdrawn (Sophos), banks and crypto platforms report none, KEV still without php2shell at 05:53 UTC today; 22 new claims reviewed; the build settles itself (board 175)
 
-1 fact reworded or re-sourced: [no-confirmed-compromise](../facts/no-confirmed-compromise/index.html).
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
 
 ### Briefings that changed
 JJordanBoard member or executive · v10RRobinCISO · v10QQuinnCFO · v10RRileyMedia and communications team · v9AAlexCurious reader · v8TTaylorProject or programme manager · v8MMorganData protection officer · v4
@@ -710,10 +728,10 @@ JJordanBoard member or executive · v9SSamSecurity lead · v8RRowanJournalist ·
 pass step 2, first part: the compromise evidence and the claim behind 'no named victim' as of 23 October 16:04 UTC, four more offline reports, the story summary and the front page's dated lines
 
 ### Facts whose status changed
-- [The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet;](../facts/nl-offline/index.html): confirmed → reported
-- [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure a](../facts/kev-precedent/index.html): confirmed → reported
+- [The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet;](https://refs.php.oct.2026.newsroom.sgit.ai/facts/nl-offline/): confirmed → reported
+- [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure a](https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/): confirmed → reported
 
-5 facts reworded or re-sourced: [wordpress-drupal](../facts/wordpress-drupal/index.html), [scale-70pc-internet](../facts/scale-70pc-internet/index.html), [scale-70pc-websites](../facts/scale-70pc-websites/index.html), [scale-2.6m-hosts](../facts/scale-2.6m-hosts/index.html), [no-confirmed-compromise](../facts/no-confirmed-compromise/index.html).
+5 facts reworded or re-sourced: [wordpress-drupal](https://refs.php.oct.2026.newsroom.sgit.ai/facts/wordpress-drupal/), [scale-70pc-internet](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-internet/), [scale-70pc-websites](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/), [scale-2.6m-hosts](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/), [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
 
 ### Briefings that changed
 JJordanBoard member or executive · v8SSamSecurity lead · v7DDrewPHP or platform engineer · v8RRowanJournalist · v7AAshSecurity researcher · v7BBlakeAnalyst or advisor · v8RRobinCISO · v8AAveryCTO · v7QQuinnCFO · v8JJamieHead of AppSec · v7LLeeDeveloper · v6RRileyMedia and communications team · v7AAlexCurious reader · v6CCaseyWebsite owner · v5TTaylorProject or programme manager · v6MMorganData protection officer · v2
@@ -1023,7 +1041,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 09:35 UTC on 25 October, no named organisation has said it was compromised through p](../facts/no-confirmed-compromise/index.html): confirmed → reported
+- [As of 09:35 UTC on 25 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1293,32 +1311,32 @@ No reader-facing section changed in this release.
 the code read from php-src, php2shell in context against ten earlier flaws, an impact ledger of offline versus compromised, detection and defence from six WAF vendors and three rule sets, six more briefings, a page per source and per party with its own graph, 86 new sources
 
 ### Facts whose status changed
-- [Amazon and Cloudflare saw sites being probed for the flaw](../facts/probing/index.html): reported → confirmed
+- [Amazon and Cloudflare saw sites being probed for the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/probing/): reported → confirmed
 
 ### 21 new facts
-- [Exploit attempts across Cloudflare's network: thousands in the ten hours before announceme](../facts/cf-millions/index.html) reported
-- [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](../facts/imperva-none/index.html) reported
-- [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](../facts/huntress-none/index.html) reported
-- [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](../facts/watchtowr-itw/index.html) unverified
-- [As of 09:35 UTC on 25 October, no named organisation has said it was compromised through p](../facts/no-confirmed-compromise/index.html) confirmed
-- [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](../facts/pocs-wrong/index.html) reported
-- [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](../facts/ac-high/index.html) confirmed
-- [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](../facts/fix-authored/index.html) confirmed
-- [Both bugs are in the C engine, not in PHP code: the allocator's longjmp-based bailout on o](../facts/fix-engine/index.html) confirmed
-- [Patching the demonstrated paths does not make the bailout mechanism safe; more paths shoul](../facts/more-paths/index.html) reported
-- [Edge protections went live hours before disclosure: Cloudflare at 03:02 UTC; Imperva, Akam](../facts/waf-nine-hours/index.html) confirmed
-- [The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet;](../facts/nl-offline/index.html) confirmed
-- [Finland's state IT provider Valtori restricted public traffic to government web services f](../facts/fi-offline/index.html) reported
-- [The Wikimedia Foundation took down a number of systems 'as a precautionary measure until t](../facts/wikimedia-precaution/index.html) reported
-- [Weird Gloop turned off its wiki web servers for 13 hours and still served about 94% of pag](../facts/weirdgloop-13h/index.html) confirmed
-- [Edinburgh council's site went offline late on 21 October; the council called it 'essential](../facts/edinburgh/index.html) reported
-- [Oxford City Council: 'a precaution because of a worldwide issue with the underlying techno](../facts/oxford/index.html) reported
-- [Edinburgh and Oxford councils, the Met Police and the Office for Budget Responsibility wer](../facts/uk-list/index.html) reported
-- [Quarkslab's published audit summary lists 27 findings, two redacted because their fixes we](../facts/quarkslab-redacted/index.html) reported
-- [Chainguard's team found the same bugs independently with an AI harness and a frontier mode](../facts/lorenc-ai-found/index.html) reported
-- [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure a](../facts/kev-precedent/index.html) confirmed
+- [Exploit attempts across Cloudflare's network: thousands in the ten hours before announceme](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cf-millions/) reported
+- [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
+- [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
+- [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
+- [As of 09:35 UTC on 25 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
+- [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
+- [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
+- [Both bugs are in the C engine, not in PHP code: the allocator's longjmp-based bailout on o](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-engine/) confirmed
+- [Patching the demonstrated paths does not make the bailout mechanism safe; more paths shoul](https://refs.php.oct.2026.newsroom.sgit.ai/facts/more-paths/) reported
+- [Edge protections went live hours before disclosure: Cloudflare at 03:02 UTC; Imperva, Akam](https://refs.php.oct.2026.newsroom.sgit.ai/facts/waf-nine-hours/) confirmed
+- [The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet;](https://refs.php.oct.2026.newsroom.sgit.ai/facts/nl-offline/) confirmed
+- [Finland's state IT provider Valtori restricted public traffic to government web services f](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fi-offline/) reported
+- [The Wikimedia Foundation took down a number of systems 'as a precautionary measure until t](https://refs.php.oct.2026.newsroom.sgit.ai/facts/wikimedia-precaution/) reported
+- [Weird Gloop turned off its wiki web servers for 13 hours and still served about 94% of pag](https://refs.php.oct.2026.newsroom.sgit.ai/facts/weirdgloop-13h/) confirmed
+- [Edinburgh council's site went offline late on 21 October; the council called it 'essential](https://refs.php.oct.2026.newsroom.sgit.ai/facts/edinburgh/) reported
+- [Oxford City Council: 'a precaution because of a worldwide issue with the underlying techno](https://refs.php.oct.2026.newsroom.sgit.ai/facts/oxford/) reported
+- [Edinburgh and Oxford councils, the Met Police and the Office for Budget Responsibility wer](https://refs.php.oct.2026.newsroom.sgit.ai/facts/uk-list/) reported
+- [Quarkslab's published audit summary lists 27 findings, two redacted because their fixes we](https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-redacted/) reported
+- [Chainguard's team found the same bugs independently with an AI harness and a frontier mode](https://refs.php.oct.2026.newsroom.sgit.ai/facts/lorenc-ai-found/) reported
+- [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure a](https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/) confirmed
 
-3 facts reworded or re-sourced: [scale-2.6m-hosts](../facts/scale-2.6m-hosts/index.html), [chainguard](../facts/chainguard/index.html), [amazon-honeypot](../facts/amazon-honeypot/index.html).
+3 facts reworded or re-sourced: [scale-2.6m-hosts](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/), [chainguard](https://refs.php.oct.2026.newsroom.sgit.ai/facts/chainguard/), [amazon-honeypot](https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/).
 
 ### Briefings that changed
 JJordanBoard member or executive · v2SSamSecurity lead · v2DDrewPHP or platform engineer · v2RRowanJournalist · v2AAshSecurity researcher · v2BBlakeAnalyst or advisor · v2RRobinCISO · newAAveryCTO · newQQuinnCFO · newJJamieHead of AppSec · newLLeeDeveloper · newRRileyMedia and communications team · new
@@ -1341,47 +1359,47 @@ JJordanBoard member or executive · v2SSamSecurity lead · v2DDrewPHP or platfor
 The site exists: a story front, the two flaws, the timeline, every claim with a status, the numbers that do not add up, the agencies compared, the affected versions and software, the exploitation signals, a playbook, six briefings, every source with its hashes, the graph, the method, the team, the billing model and this history.
 
 ### 49 new facts
-- [Two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, each CVSS v4.0 9.2, fix](../facts/two-cves-9.2/index.html) confirmed
-- [The flaws are CVSS 10.0](../facts/cvss-10/index.html) contradicted
-- [Unauthenticated RCE over HTTP against Apache mod_php with default settings, before any app](../facts/rce-modphp/index.html) confirmed
-- [Remote code execution is confirmed on PHP-FPM](../facts/rce-fpm/index.html) disputed
-- [The fix removes longjmp() for out-of-memory errors in favour of a delayed soft OOM at the ](../facts/fix-bailout/index.html) confirmed
-- [The 8.5.12 fix may be incomplete, or there is a third, different bug](../facts/fix-incomplete/index.html) unverified
-- [All PHP versions from 5 onwards are affected by at least one of the flaws](../facts/versions-old/index.html) disputed
-- [Updating is the only complete mitigation; the configuration measures reduce exposure to sp](../facts/only-update/index.html) confirmed
-- [A web application firewall may provide some protection until systems are patched](../facts/waf/index.html) disputed
-- [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal,](../facts/wordpress-drupal/index.html) reported
-- [70% of the Internet is affected](../facts/scale-70pc-internet/index.html) unverified
-- [PHP is used by almost 70% of websites whose server-side language is known](../facts/scale-70pc-websites/index.html) reported
-- [Something like 30 million websites could be affected](../facts/scale-30m/index.html) reported
-- [VulnCheck counts about 2.6 million internet-facing hosts exposing PHP; Censys, of the 2.58](../facts/scale-2.6m-hosts/index.html) reported
-- [About 6,000 potentially affected resources in Latvia, a few hundred in the public sector](../facts/scale-latvia/index.html) reported
-- [674 products in the NCSC-NL inventory: 206 vulnerable, 46 fixed, 418 under investigation, ](../facts/scale-ncsc-nl/index.html) confirmed
-- [The flaws were found by researchers using frontier AI under OpenAI's Patch the Planet init](../facts/ai-found/index.html) reported
-- [Calif found the flaws first: discovery 1 August, hash commitment 5 August, report to PHP 1](../facts/who-first/index.html) confirmed
-- [OpenAI independently reported the same root cause on 11 August, with further vectors on 18](../facts/openai-same-day/index.html) reported
-- [Wiz Research independently discovered the first flaw on 19 August and reported on 24 Augus](../facts/wiz-independent/index.html) reported
-- [The GitHub advisories credit four reporters: lcfr-hax (Calif), sagitzadik-wiz (Wiz), amyb-](../facts/four-reporters/index.html) confirmed
-- [The out-of-memory issue was found in a 2024 audit by Quarkslab (funded through OSTIF and t](../facts/quarkslab-2024/index.html) confirmed
-- [Frontier AI found the flaw ahead of attackers, giving defenders time to prepare](../facts/ahead-of-attackers/index.html) disputed
-- [The most severe flaws ever detected by AI](../facts/most-severe/index.html) reported
-- [On 20 October at about 15:00 UTC the two CVE IDs began circulating on forums and social me](../facts/leak-cve-ids/index.html) reported
-- [The leak started with an anonymous Hacker News post citing a reliable source, which came d](../facts/leak-hn/index.html) reported
-- [watchTowr confirmed in public that the bugs were real and posted both CVE numbers before t](../facts/leak-watchtowr/index.html) reported
-- [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of con](../facts/leak-video/index.html) reported
-- [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on](../facts/leak-mitigations/index.html) reported
-- [Chainguard unilaterally broke the embargo on 21 October at 07:41 UTC by publishing built i](../facts/chainguard/index.html) disputed
-- [The release moved forward from 22 October 14:00 UTC to 21 October 14:00 UTC because of the](../facts/release-moved/index.html) confirmed
-- [The flaws were disclosed on 22 October 2026](../facts/disclosure-22oct/index.html) contradicted
-- [The fixes were released at 14:00 UTC on 21 October](../facts/release-time/index.html) disputed
-- [The pre-announcement was published at 19:30 UTC on 20 October](../facts/preannounce-time/index.html) disputed
-- [There is no evidence yet that hackers have exploited the flaw](../facts/no-exploitation/index.html) reported
-- [CISA has not observed exploitation; neither CVE is in the Known Exploited Vulnerabilities ](../facts/cisa-none/index.html) confirmed
-- [Reports of active exploitation exist](../facts/nz-active/index.html) reported
-- [An exploit attempt hit an Amazon honeypot on 17 October from an anonymisation network; pro](../facts/amazon-honeypot/index.html) reported
-- [Cloudflare observed attack traffic targeting its customers after the leak, with attackers ](../facts/cloudflare-traffic/index.html) reported
-- [Amazon and Cloudflare saw sites being probed for the flaw](../facts/probing/index.html) reported
-- and more on [every claim](../claims/index.html)
+- [Two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, each CVSS v4.0 9.2, fix](https://refs.php.oct.2026.newsroom.sgit.ai/facts/two-cves-9.2/) confirmed
+- [The flaws are CVSS 10.0](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cvss-10/) contradicted
+- [Unauthenticated RCE over HTTP against Apache mod_php with default settings, before any app](https://refs.php.oct.2026.newsroom.sgit.ai/facts/rce-modphp/) confirmed
+- [Remote code execution is confirmed on PHP-FPM](https://refs.php.oct.2026.newsroom.sgit.ai/facts/rce-fpm/) disputed
+- [The fix removes longjmp() for out-of-memory errors in favour of a delayed soft OOM at the ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-bailout/) confirmed
+- [The 8.5.12 fix may be incomplete, or there is a third, different bug](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-incomplete/) unverified
+- [All PHP versions from 5 onwards are affected by at least one of the flaws](https://refs.php.oct.2026.newsroom.sgit.ai/facts/versions-old/) disputed
+- [Updating is the only complete mitigation; the configuration measures reduce exposure to sp](https://refs.php.oct.2026.newsroom.sgit.ai/facts/only-update/) confirmed
+- [A web application firewall may provide some protection until systems are patched](https://refs.php.oct.2026.newsroom.sgit.ai/facts/waf/) disputed
+- [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal,](https://refs.php.oct.2026.newsroom.sgit.ai/facts/wordpress-drupal/) reported
+- [70% of the Internet is affected](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-internet/) unverified
+- [PHP is used by almost 70% of websites whose server-side language is known](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/) reported
+- [Something like 30 million websites could be affected](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-30m/) reported
+- [VulnCheck counts about 2.6 million internet-facing hosts exposing PHP; Censys, of the 2.58](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/) reported
+- [About 6,000 potentially affected resources in Latvia, a few hundred in the public sector](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-latvia/) reported
+- [674 products in the NCSC-NL inventory: 206 vulnerable, 46 fixed, 418 under investigation, ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-ncsc-nl/) confirmed
+- [The flaws were found by researchers using frontier AI under OpenAI's Patch the Planet init](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ai-found/) reported
+- [Calif found the flaws first: discovery 1 August, hash commitment 5 August, report to PHP 1](https://refs.php.oct.2026.newsroom.sgit.ai/facts/who-first/) confirmed
+- [OpenAI independently reported the same root cause on 11 August, with further vectors on 18](https://refs.php.oct.2026.newsroom.sgit.ai/facts/openai-same-day/) reported
+- [Wiz Research independently discovered the first flaw on 19 August and reported on 24 Augus](https://refs.php.oct.2026.newsroom.sgit.ai/facts/wiz-independent/) reported
+- [The GitHub advisories credit four reporters: lcfr-hax (Calif), sagitzadik-wiz (Wiz), amyb-](https://refs.php.oct.2026.newsroom.sgit.ai/facts/four-reporters/) confirmed
+- [The out-of-memory issue was found in a 2024 audit by Quarkslab (funded through OSTIF and t](https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-2024/) confirmed
+- [Frontier AI found the flaw ahead of attackers, giving defenders time to prepare](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ahead-of-attackers/) disputed
+- [The most severe flaws ever detected by AI](https://refs.php.oct.2026.newsroom.sgit.ai/facts/most-severe/) reported
+- [On 20 October at about 15:00 UTC the two CVE IDs began circulating on forums and social me](https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-cve-ids/) reported
+- [The leak started with an anonymous Hacker News post citing a reliable source, which came d](https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-hn/) reported
+- [watchTowr confirmed in public that the bugs were real and posted both CVE numbers before t](https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-watchtowr/) reported
+- [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of con](https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-video/) reported
+- [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on](https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-mitigations/) reported
+- [Chainguard unilaterally broke the embargo on 21 October at 07:41 UTC by publishing built i](https://refs.php.oct.2026.newsroom.sgit.ai/facts/chainguard/) disputed
+- [The release moved forward from 22 October 14:00 UTC to 21 October 14:00 UTC because of the](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-moved/) confirmed
+- [The flaws were disclosed on 22 October 2026](https://refs.php.oct.2026.newsroom.sgit.ai/facts/disclosure-22oct/) contradicted
+- [The fixes were released at 14:00 UTC on 21 October](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/) disputed
+- [The pre-announcement was published at 19:30 UTC on 20 October](https://refs.php.oct.2026.newsroom.sgit.ai/facts/preannounce-time/) disputed
+- [There is no evidence yet that hackers have exploited the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-exploitation/) reported
+- [CISA has not observed exploitation; neither CVE is in the Known Exploited Vulnerabilities ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/) confirmed
+- [Reports of active exploitation exist](https://refs.php.oct.2026.newsroom.sgit.ai/facts/nz-active/) reported
+- [An exploit attempt hit an Amazon honeypot on 17 October from an anonymisation network; pro](https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/) reported
+- [Cloudflare observed attack traffic targeting its customers after the leak, with attackers ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cloudflare-traffic/) reported
+- [Amazon and Cloudflare saw sites being probed for the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/probing/) reported
+- and more on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/)
 
 ### Briefings that changed
 JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platform engineer · newRRowanJournalist · newAAshSecurity researcher · newBBlakeAnalyst or advisor · new
@@ -1400,4 +1418,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

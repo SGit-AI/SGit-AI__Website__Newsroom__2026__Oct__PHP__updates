@@ -14,9 +14,9 @@ The site went from nothing to 391 pages in about ten hours, and its own fact-che
 
 ## In one minute
 
-- **Corrections first.** The fact-check desk graded all 70 claims against the vault: 10 can be relied on without reservation, 11 carry a status word stronger than their evidence, 6 a weaker one, and 2 are refuted as worded. Five quotes on the site are not in the captures they are attributed to. Two house stories were corrected tonight for the same reason. The run is on [the fact-check desk](../../factcheck/index.html).
+- **Corrections first.** The fact-check desk graded all 70 claims against the vault: 10 can be relied on without reservation, 11 carry a status word stronger than their evidence, 6 a weaker one, and 2 are refuted as worded. Five quotes on the site are not in the captures they are attributed to. Two house stories were corrected tonight for the same reason. The run is on [the fact-check desk](https://php.oct.2026.newsroom.sgit.ai/factcheck/).
 
-- **The story has not moved on the record.** Neither CVE is on CISA's Known Exploited Vulnerabilities list (the desk checked again at 18:27 UTC), and no named organisation has confirmed a compromise. [CISA](../../sources/cisa-kev-json/index.html) [Huntress](../../sources/huntress-php2shell-rapid-response/index.html)
+- **The story has not moved on the record.** Neither CVE is on CISA's Known Exploited Vulnerabilities list (the desk checked again at 18:27 UTC), and no named organisation has confirmed a compromise. [CISA](https://refs.php.oct.2026.newsroom.sgit.ai/sources/cisa-kev-json/) [Huntress](https://refs.php.oct.2026.newsroom.sgit.ai/sources/huntress-php2shell-rapid-response/)
 
 - **But the site is behind its own evidence.** Every page is built from the vault as it stood at 11:34 UTC; the vault has moved on, and the site lists 144 sources where the vault holds about 40 more.
 
@@ -40,21 +40,21 @@ The site went from nothing to 391 pages in about ten hours, and its own fact-che
 
 ## In the story
 
-- **Exposure, first day:** VulnCheck counted 2.6 million internet-facing PHP hosts and Censys 1.57 million unpatched on 21 October, six in ten. [THN](../../sources/thehackernews-php2shell-4days/index.html) [SecurityWeek](../../sources/securityweek-exploitation-days-before/index.html)
+- **Exposure, first day:** VulnCheck counted 2.6 million internet-facing PHP hosts and Censys 1.57 million unpatched on 21 October, six in ten. [THN](https://refs.php.oct.2026.newsroom.sgit.ai/sources/thehackernews-php2shell-4days/) [SecurityWeek](https://refs.php.oct.2026.newsroom.sgit.ai/sources/securityweek-exploitation-days-before/)
 
-- **Patching, by the hour:** the NCSC-NL inventory, read from its history, had 61 of 724 products fixed, 216 vulnerable and 440 under investigation at 15:28 UTC; 185 of the vulnerable are applications that inherit PHP's flaw. Firewalls are in it: PAN-OS, Panorama, Check Point's web interfaces and NetScaler ADC are marked vulnerable. On [the inventory, hour by hour](../../patching/inventory/index.html). [NCSC-NL](../../sources/ncsc-nl-php2shell-software-list/index.html)
+- **Patching, by the hour:** the NCSC-NL inventory, read from its history, had 61 of 724 products fixed, 216 vulnerable and 440 under investigation at 15:28 UTC; 185 of the vulnerable are applications that inherit PHP's flaw. Firewalls are in it: PAN-OS, Panorama, Check Point's web interfaces and NetScaler ADC are marked vulnerable. On [the inventory, hour by hour](https://php.oct.2026.newsroom.sgit.ai/patching/inventory/). [NCSC-NL](https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-php2shell-software-list/)
 
 - **What the fact-check found** that a reader should know: Italy's cyber agency does advise taking sites offline, which the agencies page says it does not; the "contradicted" mark on the allies' offline advice rests on something the BBC did not say; "disclosed on 22 October" is true only in Australian time. Ten contradictions between sources are now tracked as a ledger; five are still open, among them how many systems are still unpatched and how many UK services went down.
 
-- **New readings:** the cyber desk's [Patch at the speed of Metasploit](../../articles/patch-at-the-speed-of-metasploit/index.html) argues php2shell has not become a one-request exploit, and that patching, testing and the response's own supply chain are likelier to hurt. The journalist and historian's [Exposed is not exploited](../../articles/exposed-is-not-exploited/index.html) asks how many of the exposed sites mattered.
+- **New readings:** the cyber desk's [Patch at the speed of Metasploit](https://php.oct.2026.newsroom.sgit.ai/articles/patch-at-the-speed-of-metasploit/) argues php2shell has not become a one-request exploit, and that patching, testing and the response's own supply chain are likelier to hurt. The journalist and historian's [Exposed is not exploited](https://php.oct.2026.newsroom.sgit.ai/articles/exposed-is-not-exploited/) asks how many of the exposed sites mattered.
 
 ## On the site
 
 - **Morning** (v0.1.0 to v0.2.x): the tracker itself, the flaws, the timeline, every claim with a status, the numbers behind "70%", sixteen agencies compared, the code read from php-src, and the release machinery.
 
-- **Afternoon** (v0.2.x to v0.4.x): [Questions](../../questions/index.html), a jargon-free front page and fifteen reader paths, the split into Research and [Stories](../../articles/index.html), [Patching](../../patching/index.html), [The second stories](../../signals/index.html), the pricing rules, [status.json](../../admin/status-json/index.html), the "what is new to you" marks and the feeds.
+- **Afternoon** (v0.2.x to v0.4.x): [Questions](https://php.oct.2026.newsroom.sgit.ai/questions/), a jargon-free front page and fifteen reader paths, the split into Research and [Stories](https://php.oct.2026.newsroom.sgit.ai/articles/), [Patching](https://php.oct.2026.newsroom.sgit.ai/patching/), [The second stories](https://php.oct.2026.newsroom.sgit.ai/signals/), the pricing rules, [status.json](https://team.php.oct.2026.newsroom.sgit.ai/admin/status-json/), the "what is new to you" marks and the feeds.
 
-- **Evening** (v0.4.x to v0.5.5): the coverage vault (24 other outlets captured), synthetic readers testing the site in a browser, subscriptions, the [phone app](../../now/index.html), [the team](../../team/index.html) with a page per member, guidance for every agent ([AGENTS.md](../../admin/agents/index.html)), the Ask pane, the security pass and the [fact-check desk](../../factcheck/index.html).
+- **Evening** (v0.4.x to v0.5.5): the coverage vault (24 other outlets captured), synthetic readers testing the site in a browser, subscriptions, the [phone app](https://php.oct.2026.newsroom.sgit.ai/now/), [the team](https://team.php.oct.2026.newsroom.sgit.ai/team/) with a page per member, guidance for every agent ([AGENTS.md](https://team.php.oct.2026.newsroom.sgit.ai/admin/agents/)), the Ask pane, the security pass and the [fact-check desk](https://php.oct.2026.newsroom.sgit.ai/factcheck/).
 
 ## Across the team
 
@@ -78,4 +78,4 @@ The site went from nothing to 391 pages in about ten hours, and its own fact-che
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/updates/2026-10-22T2003Z/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/updates/2026-10-22T2003Z/index.html

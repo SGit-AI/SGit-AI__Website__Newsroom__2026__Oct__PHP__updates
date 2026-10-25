@@ -15,11 +15,11 @@ Two things, kept apart. **The state of affairs** is one living page: what is kno
 [Every version](state/history/index.html) · [what changed in the latest](state/v2-v3/index.html)
 
 ## The analyses
-- [What changed in a day: no victim yet, four named cases tested, a patch moving through the supply chain, and firewalls on the list](../articles/what-changed-in-a-day/index.html) 2026-10-23
-- [Why can't every version of PHP just be patched?](../articles/why-not-patch-every-version/index.html) 2026-10-22
-- [Where php2shell stands: many sites dark, millions of attempts, no confirmed breach](../articles/where-php2shell-stands/index.html) 2026-10-22
-- [Exposed is not exploited: the sites php2shell did not hit, and what a hit will admit](../articles/exposed-is-not-exploited/index.html) 2026-10-22
+- [What changed in a day: no victim yet, four named cases tested, a patch moving through the supply chain, and firewalls on the list](https://php.oct.2026.newsroom.sgit.ai/articles/what-changed-in-a-day/) 2026-10-23
+- [Why can't every version of PHP just be patched?](https://php.oct.2026.newsroom.sgit.ai/articles/why-not-patch-every-version/) 2026-10-22
+- [Where php2shell stands: many sites dark, millions of attempts, no confirmed breach](https://php.oct.2026.newsroom.sgit.ai/articles/where-php2shell-stands/) 2026-10-22
+- [Exposed is not exploited: the sites php2shell did not hit, and what a hit will admit](https://php.oct.2026.newsroom.sgit.ai/articles/exposed-is-not-exploited/) 2026-10-22
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/views/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/index.html

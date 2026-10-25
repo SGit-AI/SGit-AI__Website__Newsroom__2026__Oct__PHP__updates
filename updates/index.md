@@ -6,7 +6,7 @@ Dated briefings on what was added to this site, what is new in the php2shell sto
 
 # Updates
 
-What changed on this site, in the story and across the team that runs it, dated, newest first: hourly while things are moving, daily at the end of the day, and at once when something changes what a reader should do. Written for the editor first, and for anyone following the work. Every update is drafted from the repository's own record and cites the evidence for anything it says about the story. Held by the conductor; [the brief](../admin/briefs/index.html#2026-10-22__brief__the-conductor-and-the-updates) and [how an update is written](readme/index.html) are public.
+What changed on this site, in the story and across the team that runs it, dated, newest first: hourly while things are moving, daily at the end of the day, and at once when something changes what a reader should do. Written for the editor first, and for anyone following the work. Every update is drafted from the repository's own record and cites the evidence for anything it says about the story. Held by the conductor; [the brief](https://team.php.oct.2026.newsroom.sgit.ai/admin/briefs/#2026-10-22__brief__the-conductor-and-the-updates) and [how an update is written](readme/index.html) are public.
 
 [Follow the updates (RSS)](../feeds/updates.xml)
 
@@ -18,4 +18,4 @@ The site went from nothing to 391 pages in about ten hours, and its own fact-che
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/updates/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/updates/index.html
