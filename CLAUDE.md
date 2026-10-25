@@ -14,10 +14,13 @@ Every page here is written by the press (SGit-AI/sgit-ai__website__newsroom__202
 partition, and the gate refuses it. Change the page at its source in v1, release v1, then partition again:
 
 ```
-python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site updates --v1 ../sgit-ai__website__newsroom__2026__oct__php --into .
+python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site updates --v1 ../sgit-ai__website__newsroom__2026__oct__php \
+    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .
 RELEASE_TRAILER="Agent: <you>" tools/pages_release.sh "what changed and why"
 ```
 
 `tools/pages_gate.py` (installed by the press) checks, in seconds: every file is what the press wrote, every relative
-link resolves here, every link to another of the newsroom's sites names a page it serves, CNAME, and no credential
-shapes. Pass two moves this site's sources (its pages' content and the build code that writes them) here.
+link resolves here, every link to another of the newsroom's sites names a page it serves, every link to the press or the data
+API names a file the pinned version publishes, CNAME, and no credential shapes. This repository holds no assets and
+no data: every page loads them from the press (`/v/<version>/assets/`) and the data API (`/v/<version>/`), the
+versions `press.json` names. Pass two moves this site's sources (its pages' content and the build code that writes them) here.
