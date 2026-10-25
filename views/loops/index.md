@@ -112,8 +112,8 @@ Sources the site served, release by release.
 ### The site and its repository
 150releases to dev303commits on dev954HTML pages872markdown twins93 MBin 3082 tracked files17.9 MBof data, 510 JSON files7680lines in build.py
 
-Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
+Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.8/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
 
 
 ---
-site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
+site v0.22.12 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
