@@ -94,8 +94,8 @@ What the correspondent corrected in the journalist's work, one row per correctio
 
 Listed with their sources on [the claims waiting for review](https://php.oct.2026.newsroom.sgit.ai/claims/review/#g-not-yet-reviewed).
 
-Computed from [data/desk.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.9/desk.json), the pages of this build and the vault's claims, at vault head `87795d121200`.
+Computed from [data/desk.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.10/desk.json), the pages of this build and the vault's claims, at vault head `87795d121200`.
 
 
 ---
-site v0.22.13 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/desk/index.html
+site v0.22.14 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/desk/index.html
