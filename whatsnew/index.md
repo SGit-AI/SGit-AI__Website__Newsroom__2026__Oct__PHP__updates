@@ -12,6 +12,28 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.32 · 26 October 2026new since your last visit
+
+the cutover: the main site at php.oct.2026.newsroom.sgit.ai, its robots open to search engines, its sitemap at its own address; story-site's quiet top and design; the correspondent's two articles; the Sherpa's new feedback
+
+No reader-facing section changed in this release.
+
+## v0.22.31 · 26 October 2026new since your last visit
+
+the cutover: the main site at php.oct.2026.newsroom.sgit.ai, its robots open to search engines, its sitemap at its own address; the correspondent's two articles; story-site's quiet top
+
+No reader-facing section changed in this release.
+
+## v0.22.30 · 26 October 2026new since your last visit
+
+the cutover: the main site at php.oct.2026.newsroom.sgit.ai, its robots open to search engines, its sitemap at its own address; the correspondent's article, deck and figures; the afternoon's releases
+
+### Sections that changed
+- [The method](../versions/page-method/index.html#v12) v12
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v14) v14
+- [The specialist summary](../versions/page-summary/index.html#v15) v15
+- [Front page: at a glance](../versions/front-glance/index.html#v10) v10
+
 ## v0.22.29 · 26 October 2026new since your last visit
 
 the afternoon's releases on the pages before the cutover: data v0.1.27 to v0.1.32 (the researcher's source watch and the others), fifteen team releases
@@ -1569,4 +1591,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

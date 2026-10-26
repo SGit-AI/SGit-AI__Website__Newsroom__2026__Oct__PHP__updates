@@ -15,4 +15,4 @@ v3 · site v0.8.2 · 23 October 2026 · 2 lines added or changed, 0 removed or c
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-playbook/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-playbook/index.html
