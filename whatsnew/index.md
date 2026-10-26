@@ -12,6 +12,42 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.20 · 26 October 2026new since your last visit
+
+step A of the split: each repository holds its own sources and a sync carries them into v1's build; the brief for every agent says where each writes from its next wake; the first board row written in team (dev-0001)
+
+No reader-facing section changed in this release.
+
+## v0.22.19 · 26 October 2026new since your last visit
+
+Journalist: card gets the repositories field and the tasks bound to this session
+
+No reader-facing section changed in this release.
+
+## v0.22.18 · 26 October 2026new since your last visit
+
+The correspondent's card (the schedules page): the repositories field from the split brief, and its wakes now fire into its own session
+
+No reader-facing section changed in this release.
+
+## v0.22.17 · 26 October 2026new since your last visit
+
+the curator's card carries the repositories field the split brief asks for (push: v1; after the move: team, data, v1), on the editor's instruction in the session of 26 October; its two scheduled tasks, both bound to this session with the card's prompt, re-enabled
+
+No reader-facing section changed in this release.
+
+## v0.22.16 · 26 October 2026new since your last visit
+
+the first-day report: expectations for the run and the review, measured (v1's CI median 88 s and 1,809 files a release; the six 25 to 42 s; what the agents do all day and what each kind costs today and after the flip)
+
+No reader-facing section changed in this release.
+
+## v0.22.15 · 25 October 2026new since your last visit
+
+The restart after the split: WAKE.md step 0 for every scheduled agent (read the split brief on the team site, start no new work in v1, add the repositories field); the conductor's repositories
+
+No reader-facing section changed in this release.
+
 ## v0.22.14 · 25 October 2026new since your last visit
 
 this repository is closing (the editor, 25 October): the note at the top of README and REALITY, and a board row; every agent reads the brief on the team site, starts no new work here, and after step A only dev's chain commits here
@@ -1442,4 +1478,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.14 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.20 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
