@@ -12,6 +12,25 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.29 · 26 October 2026new since your last visit
+
+the afternoon's releases on the pages before the cutover: data v0.1.27 to v0.1.32 (the researcher's source watch and the others), fifteen team releases
+
+### Facts whose status changed
+- [The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/): disputed → confirmed
+
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
+
+### Briefings that changed
+JJordanBoard member or executive · v20RRowanJournalist · v10BBlakeAnalyst or advisor · v13RRobinCISO · v18AAveryCTO · v9QQuinnCFO · v20RRileyMedia and communications team · v15AAlexCurious reader · v18TTaylorProject or programme manager · v14MMorganData protection officer · v12
+### Sections that changed
+- [How disclosure broke](../versions/page-leak/index.html#v7) v7
+- [Every claim](../versions/page-claims/index.html#v16) v16
+- [The method](../versions/page-method/index.html#v11) v11
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v13) v13
+- [The specialist summary](../versions/page-summary/index.html#v14) v14
+- [Front page: at a glance](../versions/front-glance/index.html#v9) v9
+
 ## v0.22.28 · 26 October 2026new since your last visit
 
 the morning's releases on the pages: the journalist's 81 verdicts, the researcher's source watch, the correspondent's ledger, fact-check's run 8, the curator's sources, every run record and brief since 01:43; the round as a workflow; dev's daily card
@@ -1173,7 +1192,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 09:40 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
+- [As of 12:14 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1450,7 +1469,7 @@ the code read from php-src, php2shell in context against ten earlier flaws, an i
 - [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
 - [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
 - [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
-- [As of 09:40 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [As of 12:14 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
 - [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
 - [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
 - [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
@@ -1523,7 +1542,7 @@ The site exists: a story front, the two flaws, the timeline, every claim with a 
 - [Chainguard unilaterally broke the embargo on 21 October at 07:41 UTC by publishing built i](https://refs.php.oct.2026.newsroom.sgit.ai/facts/chainguard/) disputed
 - [The release moved forward from 22 October 14:00 UTC to 21 October 14:00 UTC because of the](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-moved/) confirmed
 - [The flaws were disclosed on 22 October 2026](https://refs.php.oct.2026.newsroom.sgit.ai/facts/disclosure-22oct/) contradicted
-- [The fixes were released at 14:00 UTC on 21 October](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/) disputed
+- [The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/) disputed
 - [The pre-announcement was published at 19:30 UTC on 20 October](https://refs.php.oct.2026.newsroom.sgit.ai/facts/preannounce-time/) disputed
 - [There is no evidence yet that hackers have exploited the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-exploitation/) reported
 - [CISA has not observed exploitation; neither CVE is in the Known Exploited Vulnerabilities ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/) confirmed
@@ -1550,4 +1569,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
