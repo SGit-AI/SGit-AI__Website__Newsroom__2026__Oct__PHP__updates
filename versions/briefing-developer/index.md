@@ -15,4 +15,4 @@ v7 · site v0.17.0 · 24 October 2026 · 1 lines added or changed, 1 removed or 
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-developer/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-developer/index.html

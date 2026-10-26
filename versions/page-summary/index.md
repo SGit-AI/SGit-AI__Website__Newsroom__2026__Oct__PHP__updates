@@ -15,4 +15,4 @@ v11 · site v0.22.25 · 26 October 2026 · 2 lines added or changed, 2 removed o
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-summary/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-summary/index.html
