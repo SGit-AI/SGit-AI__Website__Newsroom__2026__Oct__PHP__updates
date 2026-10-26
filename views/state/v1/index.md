@@ -89,4 +89,4 @@ A community tracker lists 51 sites that went dark over php2shell; 50 are back, a
 
 
 ---
-site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v1/index.html
+site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v1/index.html
