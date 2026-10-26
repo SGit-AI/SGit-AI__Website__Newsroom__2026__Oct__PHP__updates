@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.23 · 26 October 2026new since your last visit
+
+step B of the split: the pages are built in the chain's own box from the six repositories' sources; nothing depends on v1's repository any more
+
+No reader-facing section changed in this release.
+
 ## v0.22.22 · 26 October 2026new since your last visit
 
 the journalist's and the correspondent's records, written in team; story-site's review of the split as served, filed on the team site
@@ -1490,4 +1496,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.22 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
