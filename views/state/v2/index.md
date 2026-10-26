@@ -97,4 +97,4 @@ The curator flagged six claims for checking against the ledger. This desk checke
 
 
 ---
-site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v2/index.html
+site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v2/index.html

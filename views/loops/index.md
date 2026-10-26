@@ -90,13 +90,12 @@ Minutes from the source-watch queue the curator names to the curated head, to th
 | Role | Card | Model | Wakes (London) | Run records | Last run | Next wakes (UTC) |
 |---|---|---|---|---|---|---|
 | Researcher | active | the session's model | 07:00, 09:30, 12:00, 14:30, 17:00 | 0 | – | 25 Oct 07:00 UTC, 25 Oct 09:30 UTC, 25 Oct 12:00 UTC |
-| Curator | active | the session's model | 08:00, 10:30, 13:00, 15:30, 18:00 | 1 | 25 Oct 13:02 UTC, ok | 25 Oct 08:00 UTC, 25 Oct 10:30 UTC, 25 Oct 13:00 UTC |
-| Journalist | active | Sonnet | 08:40, 11:10, 13:40, 16:10, 18:40 | 3 | 26 Oct 00:21 UTC, idle | 25 Oct 08:40 UTC, 25 Oct 11:10 UTC, 25 Oct 13:40 UTC |
+| Curator | active | the session's model | 08:00, 10:30, 13:00, 15:30, 18:00 | 2 | 26 Oct 00:09 UTC, ok | 25 Oct 08:00 UTC, 25 Oct 10:30 UTC, 25 Oct 13:00 UTC |
+| Journalist | active | Sonnet | 08:40, 11:10, 13:40, 16:10, 18:40 | 4 | 26 Oct 01:10 UTC, ok | 25 Oct 08:40 UTC, 25 Oct 11:10 UTC, 25 Oct 13:40 UTC |
 | Correspondent | active | Opus | 09:25, 11:55, 14:25, 16:55, 19:25 | 3 | 26 Oct 00:45 UTC, ok | 25 Oct 09:25 UTC, 25 Oct 11:55 UTC, 25 Oct 14:25 UTC |
 
 ## What this record cannot see
 - The researcher writes no run record to this repository (data/runs/researcher/ is empty): its wakes are seen only through the queue times the curator names in its vault commits.
-- The source watch's own export (data/source-watch.json) was last read 23 Oct 12:40 UTC; its pack vault's read key is not published, so its pages and snapshots here are that day's.
 - 7 curator commits never went live on their own: each was folded into a later export (normal, but a head reviewed is not every commit read).
 - Times of the researcher are the queue times the curator writes, not the researcher's own clock; a wake that found nothing to queue leaves no trace here.
 - Run records say when a wake started and finished; a wake that did nothing need not commit (AGENTS.md, section 7), so quiet wakes are invisible.
@@ -104,16 +103,16 @@ Minutes from the source-watch queue the curator names to the curated head, to th
 ## The numbers
 
 ### Evidence
-418sources in the evidence vault479captures (saved pages)2814files with a sha25627evidence vault commits913pages the source watch tracks (as of 23 Oct 12:40 UTC)2946source-watch snapshots (same date)
+454sources in the evidence vault515captures (saved pages)3019files with a sha25627evidence vault commits1218pages the source watch tracks (as of 25 Oct 15:07 UTC)9260source-watch snapshots (same date)
 Sources the site served, release by release.
 
 ### Review
-208claims in the evidence vault152verdicts: 49 agrees, 34 held back, 48 noted, 21 used9corrections by the correspondent (catches)7run records of the four roles
+224claims in the evidence vault168verdicts: 50 agrees, 40 held back, 55 noted, 23 used9corrections by the correspondent (catches)9run records of the four roles
 ### The site and its repository
 150releases to dev303commits on dev954HTML pages872markdown twins93 MBin 3082 tracked files17.9 MBof data, 510 JSON files7680lines in build.py
 
-Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.15/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
+Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.18/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
 
 
 ---
-site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
+site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
