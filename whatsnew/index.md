@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.33 · 26 October 2026new since your last visit
+
+the lane drains in v2 and telemetry from the site's own hosts (boards sherpa-0001, 330)
+
+No reader-facing section changed in this release.
+
 ## v0.22.32 · 26 October 2026new since your last visit
 
 the cutover: the main site at php.oct.2026.newsroom.sgit.ai, its robots open to search engines, its sitemap at its own address; story-site's quiet top and design; the correspondent's two articles; the Sherpa's new feedback
@@ -1591,4 +1597,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.33 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
