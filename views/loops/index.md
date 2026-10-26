@@ -74,7 +74,7 @@ Filled: what happened (the researcher's queue times as the curator names them, t
 
 | # | Evidence head | Researcher (queue) | Curator | Journalist (live) | Correspondent (review) | Took | Status |
 |---|---|---|---|---|---|---|---|
-| 4 | `8c16a64a7cf6`capture to 24 Oct 16:05 UTC; 382 sources | 24 Oct 14:21 UTC, 24 Oct 16:52 UTC | 4 commits (curator@php.newsroom)+54 sources, +64 snapshots, 30 claims; head 24 Oct 17:18 UTC | v0.15.19, 24 Oct 22:08 UTCjournalist@php.newsroom; 11 releases at this head (later ones are other work) | 24 Oct 23:21 UTCcorrespondent@php.newsroom; 9 reviews | 9 h 00 min | full loop |
+| 4 | `8c16a64a7cf6`capture to 24 Oct 16:05 UTC; 382 sources | 24 Oct 14:21 UTC, 24 Oct 16:52 UTC | 4 commits (curator@php.newsroom)+54 sources, +64 snapshots, 30 claims; head 24 Oct 17:18 UTC | v0.15.19, 24 Oct 22:08 UTCjournalist@php.newsroom; 11 releases at this head (later ones are other work) | 24 Oct 23:21 UTCcorrespondent@php.newsroom; 10 reviews | 9 h 00 min | full loop |
 | 3 | `1f38e70921b2`capture to 24 Oct 08:37 UTC; 328 sources | – | 2 commits (curator@php.newsroom)+33 sources, +0 snapshots, 23 claims; head 24 Oct 09:50 UTC | v0.14.30, 24 Oct 12:55 UTCclaude-journalist; 21 releases at this head (later ones are other work) | 24 Oct 12:55 UTCthe Opus journalist, in the same release | 5 h 43 min | one session |
 | 2 | `1845598d9a38`capture to 23 Oct 16:04 UTC; 295 sources | – | 4 commits (curator@php.newsroom)+68 sources, +0 snapshots, 49 claims; head 23 Oct 23:31 UTC | v0.10.19, 24 Oct 00:00 UTCclaude-journalist; 47 releases at this head (later ones are other work) | 24 Oct 00:00 UTCthe Opus journalist, in the same release | 6 h 19 min | one session |
 | 1 | `f3c5db0d9873`capture to 23 Oct 01:20 UTC; 227 sources | – | 17 commits (claude-newsroom-lead, claude-vault-app, collector-gov, curator@php.newsroom, first commit, merge, newsroom.dev)+45 sources, +0 snapshots, 0 claims; head 23 Oct 11:01 UTC | v0.10.4, 23 Oct 14:52 UTCclaude-journalist; 15 releases at this head (later ones are other work) | 23 Oct 14:52 UTCthe Opus journalist, in the same release | 3 h 51 min | one session |
@@ -89,10 +89,10 @@ Minutes from the source-watch queue the curator names to the curated head, to th
 
 | Role | Card | Model | Wakes (London) | Run records | Last run | Next wakes (UTC) |
 |---|---|---|---|---|---|---|
-| Researcher | active | the session's model | 07:00, 09:30, 12:00, 14:30, 17:00 | 4 | 26 Oct 14:34 UTC, ok | 25 Oct 07:00 UTC, 25 Oct 09:30 UTC, 25 Oct 12:00 UTC |
-| Curator | active | the session's model | 08:00, 10:30, 13:00, 15:30, 18:00 | 6 | 26 Oct 15:36 UTC, ok | 25 Oct 08:00 UTC, 25 Oct 10:30 UTC, 25 Oct 13:00 UTC |
-| Journalist | active | Sonnet | 08:40, 11:10, 13:40, 16:10, 18:40 | 9 | 26 Oct 16:13 UTC, ok | 25 Oct 08:40 UTC, 25 Oct 11:10 UTC, 25 Oct 13:40 UTC |
-| Correspondent | active | Opus | 09:25, 11:55, 14:25, 16:55, 19:25 | 9 | 26 Oct 16:30 UTC, ok | 25 Oct 09:25 UTC, 25 Oct 11:55 UTC, 25 Oct 14:25 UTC |
+| Researcher | active | the session's model | 07:00, 09:30, 12:00, 14:30, 17:00 | 5 | 26 Oct 17:02 UTC, ok | 25 Oct 07:00 UTC, 25 Oct 09:30 UTC, 25 Oct 12:00 UTC |
+| Curator | active | the session's model | 08:00, 10:30, 13:00, 15:30, 18:00 | 7 | 26 Oct 18:03 UTC, ok | 25 Oct 08:00 UTC, 25 Oct 10:30 UTC, 25 Oct 13:00 UTC |
+| Journalist | active | Sonnet | 08:40, 11:10, 13:40, 16:10, 18:40 | 10 | 26 Oct 18:41 UTC, idle | 25 Oct 08:40 UTC, 25 Oct 11:10 UTC, 25 Oct 13:40 UTC |
+| Correspondent | active | Opus | 09:25, 11:55, 14:25, 16:55, 19:25 | 10 | 26 Oct 17:10 UTC, ok | 25 Oct 09:25 UTC, 25 Oct 11:55 UTC, 25 Oct 14:25 UTC |
 
 ## What this record cannot see
 - 7 curator commits never went live on their own: each was folded into a later export (normal, but a head reviewed is not every commit read).
@@ -102,16 +102,16 @@ Minutes from the source-watch queue the curator names to the curated head, to th
 ## The numbers
 
 ### Evidence
-543sources in the evidence vault605captures (saved pages)3533files with a sha25627evidence vault commits1273pages the source watch tracks (as of 26 Oct 15:10 UTC)12887source-watch snapshots (same date)
+561sources in the evidence vault623captures (saved pages)3636files with a sha25627evidence vault commits1284pages the source watch tracks (as of 26 Oct 17:40 UTC)13600source-watch snapshots (same date)
 Sources the site served, release by release.
 
 ### Review
-341claims in the evidence vault285verdicts: 78 agrees, 62 held back, 111 noted, 34 used12corrections by the correspondent (catches)28run records of the four roles
+354claims in the evidence vault285verdicts: 78 agrees, 62 held back, 111 noted, 34 used14corrections by the correspondent (catches)32run records of the four roles
 ### The site and its repository
 150releases to dev303commits on dev954HTML pages872markdown twins93 MBin 3082 tracked files17.9 MBof data, 510 JSON files7680lines in build.py
 
-Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.42/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
+Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.45/loops.json) (exported 25 Oct 01:14 UTC by `admin/build/export_loops.py`; the evidence vault read 25 Oct 01:14 UTC), `data/runs/` and `data/schedule/`. The correspondent re-exports it at every wake. See also [the desk](../desk/index.html) (what is still stale) and [every schedule](https://team.php.oct.2026.newsroom.sgit.ai/team/schedule/).
 
 
 ---
-site v0.22.33 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
+site v0.22.34 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
