@@ -15,4 +15,4 @@ v4 · site v0.3.1 · 22 October 2026 · reconstructed from git · 4 lines added 
 
 
 ---
-site v0.22.41 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-timeline/index.html
+site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-timeline/index.html

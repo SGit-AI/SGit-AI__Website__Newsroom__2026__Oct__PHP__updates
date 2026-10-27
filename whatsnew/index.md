@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.42 · 27 October 2026new since your last visit
+
+every site's gate is the press's newest: site's checks an article at its writer's push; a run's agent links to its schedule page only when it has a card
+
+No reader-facing section changed in this release.
+
 ## v0.22.41 · 27 October 2026new since your last visit
 
 article pages are frames: each draws its article from site's content/articles/ when it opens; articles/view/ draws one newer than the build; the route sends content/articles/ to site
@@ -1653,4 +1659,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.41 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
