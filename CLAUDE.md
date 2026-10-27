@@ -11,9 +11,10 @@ never force-push, never push to `main`.
 
 This repository holds its own sources: the views and the updates (`content/views/`, `content/updates/`: v1's `admin/content/` of the same names). Write them here, as your policy says, and release with
 `tools/pages_release.sh`. What is written here wins: `tools/pages_sync.py import` (v1 to here) never overwrites a change
-made here, and `tools/pages_sync.py export` carries it into the chain's build box (since step B, 26 October, a clone of
-v1 as frozen that is never pushed: nothing depends on v1's repository); dev's chain (`tools/chain.sh` in the press)
-runs both every round, and the page appears here at the next cut. `sources.json` records what the last import wrote.
+made here, and `tools/pages_sync.py export` carries it into the edition's build box (since step B, 26 October, a clone of
+v1 as frozen that is never pushed: nothing depends on v1's repository); the edition, built in
+CI by the press (`.github/workflows/edition.yml` there, every ten minutes, when anyone has released), runs both, and this
+repository's deploy takes it on its schedule: the page appears here within about half an hour, with no one running a round. `sources.json` records what the last import wrote.
 
 ## The pages: never edited here
 
@@ -23,7 +24,7 @@ partition, and the gate refuses it. Change the page at its source in v1, release
 
 ```
 python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site updates --v1 ../sgit-ai__website__newsroom__2026__oct__php__box \
-    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .   # dev's chain does this
+    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .   # the edition does this, in the press's CI
 RELEASE_TRAILER="Agent: <you>" tools/pages_release.sh "what changed and why"
 ```
 
