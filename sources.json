@@ -1,7 +1,7 @@
 {
  "from": {
-  "commit": "854639a5cab857b470500ba7f3b79bdc83bc1b03",
-  "site_version": "0.22.39"
+  "commit": "14bb9d64372660573ba48e0b2e191e972ef9a3a0",
+  "site_version": "0.22.40"
  },
  "sources": {
   "content/updates/": "admin/content/updates/",
