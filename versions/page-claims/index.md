@@ -15,4 +15,4 @@ v17 · site v0.22.34 · 26 October 2026 · 1 lines added or changed, 1 removed o
 
 
 ---
-site v0.22.40 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-claims/index.html
+site v0.22.41 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-claims/index.html
