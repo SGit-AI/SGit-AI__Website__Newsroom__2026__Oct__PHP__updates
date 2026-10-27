@@ -15,4 +15,4 @@ v5 · site v0.22.43 · 27 October 2026 · 3 lines added or changed, 2 removed or
 
 
 ---
-site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-timeline/index.html
+site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-timeline/index.html

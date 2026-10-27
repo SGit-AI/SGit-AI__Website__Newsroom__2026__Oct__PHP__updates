@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.44 · 27 October 2026new since your last visit
+
+the story as days (story-site, press 375c0de and site's content/days/): the front page leads with the last 24 hours and each day is at /on//; the pages that opened vaults in the vault UI are removed (the editor, 27 October 2026)
+
+No reader-facing section changed in this release.
+
 ## v0.22.43 · 27 October 2026new since your last visit
 
 the loops page names the evidence vault nnd3i8iw (3ytzxm3g decommissioned, the editor, 27 October 2026)
@@ -1682,4 +1688,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
