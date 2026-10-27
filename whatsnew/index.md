@@ -12,6 +12,24 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.49 · 27 October 2026new since your last visit
+
+press: no workflow runs on a timer (the editor, 27 October 2026): edition.yml and pages.yml lose their schedules; the edition builds on a push to the press (or by hand), each site takes it on its next push; CLAUDE.md says so; team: board dev-0005 done (editions built in CI and taken by all six: edition-0.22.45 and 0.22.46, no round run); dev-0006 for the editor (editions within minutes need a dispatch-only token); CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006); site: CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006); updates: CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006)
+
+No reader-facing section changed in this release.
+
+## v0.22.48 · 27 October 2026new since your last visit
+
+press: CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006); team: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it; site: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it; refs: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it; updates: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it
+
+No reader-facing section changed in this release.
+
+## v0.22.47 · 27 October 2026new since your last visit
+
+press: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it; data: every deploy takes the newest edition, a push included (board dev-0005): GitHub fires the fifteen-minute schedules only every few hours, so an owner's release carries the newest edition with it
+
+No reader-facing section changed in this release.
+
 ## v0.22.46 · 27 October 2026new since your last visit
 
 press: the editions stopped on three records (since 16:48): the build draws a number the ontologist has not attributed yet with no party stating it (n-censys-services), a friction row with no stage (F040), and a review whose where is free text, shown and not linked; the risk graph's changes pair a release the history has no totals for with the last before it; tested from the CI box of edition-0.22.45 to a full edition, every gate green; data: breaking (correspondent's role): review of step 3 for breaking-0002 (3 catches), state of affairs v5, Censys services beside hosts, story's exploitation paragraph; team: security: nightly pass of 27 October: SA-2026-043 fixed (the round removed), SA-2026-044 recorded (board security-0002), the desk's branches reviewed, run record; site: breaking (correspondent's role): Right now names both withdrawals; the been-hacked answers name Square Enix and the vendors' statements; the Brotli line keeps the PHP Foundation's caveat; refs: this repository's deploy takes the newest edition, built in CI by the press (board dev-0005): every fifteen minutes it applies the edition's patch for here, gates it and releases it; no one runs a round; CLAUDE.md says so; updates: breaking (correspondent's role): state of affairs v5, the vendors' statements after CISA's listing, compromise still unnamed as of 19:13 UTC on 27 October
@@ -1732,4 +1750,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

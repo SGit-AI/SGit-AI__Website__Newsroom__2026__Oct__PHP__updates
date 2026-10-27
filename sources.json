@@ -1,15 +1,13 @@
 {
  "from": {
-  "commit": "9ea22e8422dc02f7cc6cc6edffbe58ddb6386a34",
-  "site_version": "0.22.46"
+  "commit": "b5afe22d517aaca4126a16da1a7b8d836930c59e",
+  "site_version": "0.22.49"
  },
  "sources": {
   "content/updates/": "admin/content/updates/",
   "content/views/": "admin/content/views/"
  },
- "kept": [
-  "content/views/state/v5.md"
- ],
+ "kept": [],
  "files": {
   "content/updates/2026-10-22T2003Z__daily.md": "15eda3ed872678d3f388506dac04cc15cb627bf6fec35166db682f9f5bf6f608",
   "content/updates/README.md": "e936bad80473465c960ca6259b56d32aaab645d3c62aaf0fd2b03159f4174a81",
