@@ -2,13 +2,21 @@
 
 > Story: written here by this site, signed and dated. By the journalist.
 
-4 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
+5 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
 
 View · the state of affairs · history
 
 # The state of affairs: every version
 
 Every version stays as it was written; the next one says what changed. Newest first.
+
+v4 · 27 October 2026, 03:45 UTC
+
+### [The state of affairs on 27 October: CISA lists both flaws as exploited, and still no named victim](../v4/index.html)
+
+On 26 October CISA added both php2shell CVEs to its Known Exploited Vulnerabilities catalog, the measure this desk has watched since the first day: it holds evidence the flaws are exploited. The listing names no victim, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:45 UTC on 27 October. Exploited and compromised are now two different answers.
+
+[What changed from v3 →](../v3-v4/index.html)
 
 v3 · 24 October 2026, 12:30 UTC
 
@@ -42,4 +50,4 @@ Reconstructed, not written at the time: what this site published with data as of
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html

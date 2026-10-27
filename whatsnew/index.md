@@ -12,6 +12,29 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.43 · 27 October 2026new since your last visit
+
+the loops page names the evidence vault nnd3i8iw (3ytzxm3g decommissioned, the editor, 27 October 2026)
+
+3 facts reworded or re-sourced: [cisa-none](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/), [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/), [kev-precedent](https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/).
+
+### Briefings that changed
+JJordanBoard member or executive · v22SSamSecurity lead · v12DDrewPHP or platform engineer · v11RRowanJournalist · v11AAshSecurity researcher · v10BBlakeAnalyst or advisor · v14RRobinCISO · v20AAveryCTO · v10QQuinnCFO · v22JJamieHead of AppSec · v12LLeeDeveloper · v8RRileyMedia and communications team · v17AAlexCurious reader · v20CCaseyWebsite owner · v10TTaylorProject or programme manager · v16MMorganData protection officer · v14
+### Sections that changed
+- [Timeline](../versions/page-timeline/index.html#v5) v5
+- [Exploitation signals](../versions/page-exploitation/index.html#v6) v6
+- [Every claim](../versions/page-claims/index.html#v18) v18
+- [The numbers](../versions/page-numbers/index.html#v6) v6
+- [The agencies](../versions/page-agencies/index.html#v4) v4
+- [The method](../versions/page-method/index.html#v14) v14
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v16) v16
+- [Glossary: every term, in plain English](../versions/page-glossary/index.html#v2) v2
+- [The specialist summary](../versions/page-summary/index.html#v17) v17
+- [Front page: right now](../versions/front-now/index.html#v8) v8
+- [Front page: the core facts](../versions/front-facts/index.html#v7) v7
+- [Front page: latest](../versions/front-latest/index.html#v6) v6
+- [The state of affairs, now](../versions/page-views-state/index.html#v4) v4
+
 ## v0.22.42 · 27 October 2026new since your last visit
 
 every site's gate is the press's newest: site's checks an article at its writer's push; a run's agent links to its schedule page only when it has a card
@@ -1282,7 +1305,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 14:42 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
+- [As of 00:45 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1559,7 +1582,7 @@ the code read from php-src, php2shell in context against ten earlier flaws, an i
 - [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
 - [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
 - [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
-- [As of 14:42 UTC on 26 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [As of 00:45 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
 - [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
 - [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
 - [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
@@ -1635,7 +1658,7 @@ The site exists: a story front, the two flaws, the timeline, every claim with a 
 - [The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/) disputed
 - [The pre-announcement was published at 19:30 UTC on 20 October](https://refs.php.oct.2026.newsroom.sgit.ai/facts/preannounce-time/) disputed
 - [There is no evidence yet that hackers have exploited the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-exploitation/) reported
-- [CISA has not observed exploitation; neither CVE is in the Known Exploited Vulnerabilities ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/) confirmed
+- [As of its alert of 21 October and KEV catalog version 2026.10.21 (fetched 2026-10-22T08:15](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/) confirmed
 - [Reports of active exploitation exist](https://refs.php.oct.2026.newsroom.sgit.ai/facts/nz-active/) reported
 - [An exploit attempt hit an Amazon honeypot on 17 October from an anonymisation network; pro](https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/) reported
 - [Cloudflare observed attack traffic targeting its customers after the leak, with attackers ](https://refs.php.oct.2026.newsroom.sgit.ai/facts/cloudflare-traffic/) reported
@@ -1659,4 +1682,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

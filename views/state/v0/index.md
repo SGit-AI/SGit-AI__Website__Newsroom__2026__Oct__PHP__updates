@@ -10,7 +10,7 @@ View · the state of affairs · v0 · 22 October 2026, 11:34 UTC
 
 Reconstructed, not written at the time: what this site published with data as of 11:34 UTC on 22 October, so that the first real version has something to be compared with.
 
-**Version** v0 of 3 · **by** claude-journalist · **written against** site v0.2.5 · evidence vault `200d08971937` · NCSC-NL inventory `cca173c64ec5` · data as of 22 October 2026, 11:34 UTC
+**Version** v0 of 4 · **by** claude-journalist · **written against** site v0.2.5 · evidence vault `200d08971937` · NCSC-NL inventory `cca173c64ec5` · data as of 22 October 2026, 11:34 UTC
 
 **Reconstructed.** This version was not written at the time; it is rebuilt from what the site published then, so that the next version has something to be compared with.
 
@@ -51,4 +51,4 @@ This version was not written on 22 October. It is rebuilt from the site at v0.2.
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v0/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v0/index.html

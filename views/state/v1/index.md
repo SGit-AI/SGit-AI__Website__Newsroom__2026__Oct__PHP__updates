@@ -10,7 +10,7 @@ View · the state of affairs · v1 · 23 October 2026, 14:11 UTC
 
 Two days after the release, no organisation has confirmed a compromise through php2shell, and of four named incidents linked to it, one was retracted and three are unresolved. Fixes are moving through the supply chain: the NCSC-NL inventory went from 46 fixed products to 109 overnight. Ten security and network products are confirmed vulnerable.
 
-**Version** v1 of 3 · **by** claude-journalist · **written against** site v0.10.1 · evidence vault `f3c5db0d9873` · source watch `c26dce84136f` · NCSC-NL inventory `2fdc314ded28` · data as of 23 October 2026, 01:20 UTC
+**Version** v1 of 4 · **by** claude-journalist · **written against** site v0.10.1 · evidence vault `f3c5db0d9873` · source watch `c26dce84136f` · NCSC-NL inventory `2fdc314ded28` · data as of 23 October 2026, 01:20 UTC
 
 [← v0](../v0/index.html) · [what changed from v0](../v0-v1/index.html) · [v2 →](../v2/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
@@ -89,4 +89,4 @@ A community tracker lists 51 sites that went dark over php2shell; 50 are back, a
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v1/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v1/index.html

@@ -10,9 +10,9 @@ Two things, kept apart. **The state of affairs** is one living page: what is kno
 
 ## The state of affairs, now
 
-[v3: The state of affairs on 24 October: a vendor withdraws the first claim of a break-in, banks report none, and the exploited list still does not have it24 October 2026, 12:30 UTC · Three days after the release, still no organisation has said it was compromised through php2shell. The one security vendor that had claimed a successful compromise, Sophos, withdrew it: its data showed scanning and a few failed attempts. US banks and the large crypto platforms report none, the Netherlands joins the authorities that have seen no attack succeed, and neither CVE was in CISA's exploited list at 05:53 UTC today.](state/index.html)
+[v4: The state of affairs on 27 October: CISA lists both flaws as exploited, and still no named victim27 October 2026, 03:45 UTC · On 26 October CISA added both php2shell CVEs to its Known Exploited Vulnerabilities catalog, the measure this desk has watched since the first day: it holds evidence the flaws are exploited. The listing names no victim, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:45 UTC on 27 October. Exploited and compromised are now two different answers.](state/index.html)
 
-[Every version](state/history/index.html) · [what changed in the latest](state/v2-v3/index.html)
+[Every version](state/history/index.html) · [what changed in the latest](state/v3-v4/index.html)
 
 ## The analyses
 - [What changed in a day: no victim yet, four named cases tested, a patch moving through the supply chain, and firewalls on the list](https://php.oct.2026.newsroom.sgit.ai/articles/what-changed-in-a-day/) 2026-10-23
@@ -22,4 +22,4 @@ Two things, kept apart. **The state of affairs** is one living page: what is kno
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/views/index.html

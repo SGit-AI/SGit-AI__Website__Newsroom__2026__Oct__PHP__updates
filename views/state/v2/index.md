@@ -10,7 +10,7 @@ View · the state of affairs · v2 · 23 October 2026, 23:55 UTC
 
 Sixty-eight more sources, read by the curator, change none of the measures that matter most: no organisation has confirmed a compromise through php2shell, and neither CVE is in CISA's exploited list at this desk's last check. What moved is the advice. Singapore and Luxembourg now tell operators to check whether they were already broken into, and the first national count of servers still affected after the fix is in: about 3.5% in Switzerland.
 
-**Version** v2 of 3 · **by** claude-journalist · **written against** site v0.10.18 · evidence vault `1845598d9a38` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 23 October 2026, 16:04 UTC
+**Version** v2 of 4 · **by** claude-journalist · **written against** site v0.10.18 · evidence vault `1845598d9a38` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 23 October 2026, 16:04 UTC
 
 [← v1](../v1/index.html) · [what changed from v1](../v1-v2/index.html) · [v3 →](../v3/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
@@ -97,4 +97,4 @@ The curator flagged six claims for checking against the ledger. This desk checke
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v2/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v2/index.html
