@@ -15,4 +15,4 @@ v10 · site v0.17.2 · 24 October 2026 · 1 lines added or changed, 1 removed or
 
 
 ---
-site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-engineer/index.html
+site v0.22.38 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-engineer/index.html

@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.38 · 27 October 2026new since your last visit
+
+the brief on the six centers of gravity, with its diagrams
+
+No reader-facing section changed in this release.
+
 ## v0.22.37 · 27 October 2026new since your last visit
 
 the briefs read live; telemetry capped at 40 events a tab, with five lanes
@@ -1629,4 +1635,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.38 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
