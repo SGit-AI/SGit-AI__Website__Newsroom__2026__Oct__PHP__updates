@@ -14,8 +14,8 @@ This repository holds its own sources: the views and the updates (`content/views
 made here, and `tools/pages_sync.py export` carries it into the edition's build box (since step B, 26 October, a clone of
 v1 as frozen that is never pushed: nothing depends on v1's repository); the edition, built in
 CI by the press (`.github/workflows/edition.yml` there, when anyone has released), runs both, and this repository's
-deploy takes it on its next push or schedule: the page appears here with no one running a round (within hours today,
-GitHub firing the schedules only every few hours; board dev-0006). `sources.json` records what the last import wrote.
+deploy takes it on its next push: no one runs a round, and nothing runs on a timer (how a push anywhere starts the
+sequence: board dev-0006). `sources.json` records what the last import wrote.
 
 ## The pages: never edited here
 
