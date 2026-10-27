@@ -12,6 +12,33 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.46 · 27 October 2026new since your last visit
+
+press: the editions stopped on three records (since 16:48): the build draws a number the ontologist has not attributed yet with no party stating it (n-censys-services), a friction row with no stage (F040), and a review whose where is free text, shown and not linked; the risk graph's changes pair a release the history has no totals for with the last before it; tested from the CI box of edition-0.22.45 to a full edition, every gate green; data: breaking (correspondent's role): review of step 3 for breaking-0002 (3 catches), state of affairs v5, Censys services beside hosts, story's exploitation paragraph; team: security: nightly pass of 27 October: SA-2026-043 fixed (the round removed), SA-2026-044 recorded (board security-0002), the desk's branches reviewed, run record; site: breaking (correspondent's role): Right now names both withdrawals; the been-hacked answers name Square Enix and the vendors' statements; the Brotli line keeps the PHP Foundation's caveat; refs: this repository's deploy takes the newest edition, built in CI by the press (board dev-0005): every fifteen minutes it applies the edition's patch for here, gates it and releases it; no one runs a round; CLAUDE.md says so; updates: breaking (correspondent's role): state of affairs v5, the vendors' statements after CISA's listing, compromise still unnamed as of 19:13 UTC on 27 October
+
+### Facts whose status changed
+- [There is no evidence yet that hackers have exploited the flaw](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-exploitation/): reported → disputed
+- [The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking system](https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-allies/): contradicted → disputed
+
+2 facts reworded or re-sourced: [disclosure-22oct](https://refs.php.oct.2026.newsroom.sgit.ai/facts/disclosure-22oct/), [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
+
+### Briefings that changed
+JJordanBoard member or executive · v24SSamSecurity lead · v14RRowanJournalist · v12BBlakeAnalyst or advisor · v16RRobinCISO · v22AAveryCTO · v11QQuinnCFO · v24JJamieHead of AppSec · v14RRileyMedia and communications team · v19AAlexCurious reader · v22CCaseyWebsite owner · v12TTaylorProject or programme manager · v18MMorganData protection officer · v16
+### Sections that changed
+- [How disclosure broke](../versions/page-leak/index.html#v8) v8
+- [Exploitation signals](../versions/page-exploitation/index.html#v7) v7
+- [Every claim](../versions/page-claims/index.html#v20) v20
+- [The numbers](../versions/page-numbers/index.html#v7) v7
+- [The agencies](../versions/page-agencies/index.html#v5) v5
+- [The method](../versions/page-method/index.html#v16) v16
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v18) v18
+- [Who says what](../versions/page-actors/index.html#v4) v4
+- [The specialist summary](../versions/page-summary/index.html#v19) v19
+- [Front page: right now](../versions/front-now/index.html#v10) v10
+- [Front page: the core facts](../versions/front-facts/index.html#v9) v9
+- [Front page: latest](../versions/front-latest/index.html#v7) v7
+- [The state of affairs, now](../versions/page-views-state/index.html#v5) v5
+
 ## v0.22.45 · 27 October 2026new since your last visit
 
 the first edition built in CI
@@ -1328,7 +1355,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 09:43 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
+- [As of 19:13 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1605,7 +1632,7 @@ the code read from php-src, php2shell in context against ten earlier flaws, an i
 - [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
 - [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
 - [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
-- [As of 09:43 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [As of 19:13 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
 - [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
 - [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
 - [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
@@ -1705,4 +1732,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

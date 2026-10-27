@@ -2,13 +2,21 @@
 
 > Story: written here by this site, signed and dated. By the journalist.
 
-5 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
+6 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
 
 View · the state of affairs · history
 
 # The state of affairs: every version
 
 Every version stays as it was written; the next one says what changed. Newest first.
+
+v5 · 27 October 2026, 19:50 UTC
+
+### [The state of affairs on 27 October, evening: both vendor claims of a break-in withdrawn, and still no named victim](../v5/index.html)
+
+Both security vendors that said php2shell had been used in a successful attack have withdrawn it, Sophos on 22 October and Palo Alto Networks' Unit 42 on 25 October. A fourth named incident without a stated cause, Square Enix, is now counted as open. CISA's listing stands, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 19:13 UTC on 27 October.
+
+[What changed from v4 →](../v4-v5/index.html)
 
 v4 · 27 October 2026, 03:45 UTC
 
@@ -50,4 +58,4 @@ Reconstructed, not written at the time: what this site published with data as of
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html

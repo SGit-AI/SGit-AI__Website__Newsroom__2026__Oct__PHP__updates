@@ -10,9 +10,9 @@ View · the state of affairs · v4 · 27 October 2026, 03:45 UTC
 
 On 26 October CISA added both php2shell CVEs to its Known Exploited Vulnerabilities catalog, the measure this desk has watched since the first day: it holds evidence the flaws are exploited. The listing names no victim, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:45 UTC on 27 October. Exploited and compromised are now two different answers.
 
-**Version** v4 of 4 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.43 · evidence vault `24f0b0e22666` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 00:45 UTC
+**Version** v4 of 5 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.43 · evidence vault `24f0b0e22666` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 00:45 UTC
 
-[← v3](../v3/index.html) · [what changed from v3](../v3-v4/index.html) · [the current state](../index.html) · [every version](../history/index.html)
+[← v3](../v3/index.html) · [what changed from v3](../v3-v4/index.html) · [v5 →](../v5/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
 ## The measures
 
@@ -73,8 +73,8 @@ The claims that said neither CVE is in KEV (cisa-none, kev-precedent) are kept a
 
 - The NCSC-NL inventory moving again.
 
-[← v3](../v3/index.html) · [what changed from v3](../v3-v4/index.html) · [the current state](../index.html) · [every version](../history/index.html)
+[← v3](../v3/index.html) · [what changed from v3](../v3-v4/index.html) · [v5 →](../v5/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v4/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v4/index.html
