@@ -12,6 +12,29 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.51 · 28 October 2026new since your last visit
+
+press: dev: a second signed log to start the edition build, after the gate's two files were fixed (the editor's go, 28 October 2026); data: journalist: batch 28 reviewed (14 claims), compromise line and as-of refreshed to the vault at 75668aedfb6d; team: dev: fix the two files that fail the edition's gate (editor's override); rule: a signed log to the press starts a build; site: correspondent: readers' lines re-stamped to the claim's stamp, 17:15 UTC on 28 October (batches 23 to 28 checked against captures, no catch; board desk-0003)
+
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
+
+### Briefings that changed
+JJordanBoard member or executive · v25RRobinCISO · v23QQuinnCFO · v25RRileyMedia and communications team · v20AAlexCurious reader · v23TTaylorProject or programme manager · v19MMorganData protection officer · v17
+### Sections that changed
+- [Every claim](../versions/page-claims/index.html#v21) v21
+- [The method](../versions/page-method/index.html#v17) v17
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v19) v19
+- [The specialist summary](../versions/page-summary/index.html#v20) v20
+- [Front page: right now](../versions/front-now/index.html#v11) v11
+- [Front page: at a glance](../versions/front-glance/index.html#v12) v12
+- [Front page: the core facts](../versions/front-facts/index.html#v10) v10
+
+## v0.22.50 · 27 October 2026new since your last visit
+
+press: The two figures of dev's article on how a push reaches the pages (today's flows and the target), under assets/articles/how-a-push-reaches-the-pages/; data: no workflow runs on a timer (the editor, 27 October 2026): this deploy loses its schedule and takes the newest edition on a push; team: pulse: handover and register for the move to a new account; card completed; idle run record; site: no workflow runs on a timer (the editor, 27 October 2026): this deploy loses its schedule and takes the newest edition on a push; refs: no workflow runs on a timer (the editor, 27 October 2026): this deploy loses its schedule and takes the newest edition on a push; updates: no workflow runs on a timer (the editor, 27 October 2026): this deploy loses its schedule and takes the newest edition on a push
+
+No reader-facing section changed in this release.
+
 ## v0.22.49 · 27 October 2026new since your last visit
 
 press: no workflow runs on a timer (the editor, 27 October 2026): edition.yml and pages.yml lose their schedules; the edition builds on a push to the press (or by hand), each site takes it on its next push; CLAUDE.md says so; team: board dev-0005 done (editions built in CI and taken by all six: edition-0.22.45 and 0.22.46, no round run); dev-0006 for the editor (editions within minutes need a dispatch-only token); CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006); site: CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006); updates: CLAUDE.md says what the schedules really do: editions are built in CI and taken on every push and schedule, but GitHub fires the schedules only every few hours (board dev-0006)
@@ -1373,7 +1396,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 19:13 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
+- [As of 17:15 UTC on 28 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1650,7 +1673,7 @@ the code read from php-src, php2shell in context against ten earlier flaws, an i
 - [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
 - [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
 - [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
-- [As of 19:13 UTC on 27 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [As of 17:15 UTC on 28 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
 - [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
 - [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
 - [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
@@ -1750,4 +1773,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
