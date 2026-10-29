@@ -6,7 +6,7 @@
 <atom:link href="https://php.oct.2026.newsroom.sgit.ai/feeds/stories.xml" rel="self" type="application/rss+xml"/>
 <description>PHP October 2026: stories written here, signed and dated. A new entry when an item is new, and again each time what it says changes.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
 <item><title>Front page: Stories: written here (updated)</title><link>https://php.oct.2026.newsroom.sgit.ai/index.html#stories</link><guid isPermaLink="false">home-stories@v9</guid><pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate><category>front</category><description>Front page. Updated (v9) in site v0.22.51.</description></item>
 <item><title>Story: How a push reaches the pages: the six repositories, the edition, and why one push still waits for another</title><link>https://php.oct.2026.newsroom.sgit.ai/articles/how-a-push-reaches-the-pages/index.html</link><guid isPermaLink="false">story-how-a-push-reaches-the-pages@v1</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><category>story</category><description>Story. Dated 2026-10-27.</description></item>
 <item><title>Story: Someone stole the bitcoin. What that does, and does not, tell us about php2shell (updated)</title><link>https://php.oct.2026.newsroom.sgit.ai/articles/steal-my-bitcoin/index.html</link><guid isPermaLink="false">story-steal-my-bitcoin@v3</guid><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><category>story</category><description>Story. Updated (v3) in site v0.22.46.</description></item>

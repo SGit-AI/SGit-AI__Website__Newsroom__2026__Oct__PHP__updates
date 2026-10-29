@@ -12,6 +12,12 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.52 · 29 October 2026new since your last visit
+
+press: dev: the line no longer redraws forever when two tabs are open (a storage event now re-renders only when the view changed); data: dev: a signed log, so data's deploy takes edition 0.22.51 (the editor's go, 28 October 2026); team: desk: run record of the 00:40 wake, first run of the days; site: desk: close 27 and 28 October, open 29 October (the days, first run); refs: dev: a signed log entry in the README, so refs' deploy takes edition 0.22.51 (the editor's go, 28 October 2026); updates: dev: a signed log, so updates' deploy takes edition 0.22.51 (the editor's go, 28 October 2026)
+
+No reader-facing section changed in this release.
+
 ## v0.22.51 · 28 October 2026new since your last visit
 
 press: dev: a second signed log to start the edition build, after the gate's two files were fixed (the editor's go, 28 October 2026); data: journalist: batch 28 reviewed (14 claims), compromise line and as-of refreshed to the vault at 75668aedfb6d; team: dev: fix the two files that fail the edition's gate (editor's override); rule: a signed log to the press starts a build; site: correspondent: readers' lines re-stamped to the claim's stamp, 17:15 UTC on 28 October (batches 23 to 28 checked against captures, no catch; board desk-0003)
@@ -1773,4 +1779,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html

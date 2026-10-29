@@ -44,4 +44,4 @@ The [feed viewer](https://php.oct.2026.newsroom.sgit.ai/reader/) reads these fee
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/feeds/index.html
+site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/feeds/index.html

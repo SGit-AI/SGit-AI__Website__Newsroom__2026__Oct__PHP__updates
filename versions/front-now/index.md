@@ -15,4 +15,4 @@ A fix has been available since 21 October. Organisations that run websites on PH
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/versions/front-now/index.html
+site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/versions/front-now/index.html

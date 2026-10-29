@@ -6,7 +6,7 @@
 <atom:link href="https://php.oct.2026.newsroom.sgit.ai/feeds/for-you.xml" rel="self" type="application/rss+xml"/>
 <description>PHP October 2026: the questions readers ask, the briefings, and the start-here pages. A new entry when an item is new, and again each time what it says changes.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
 <item><title>Question: Has anyone actually been hacked? (updated)</title><link>https://php.oct.2026.newsroom.sgit.ai/questions/been-hacked/index.html</link><guid isPermaLink="false">q-been-hacked@v10</guid><pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate><category>question</category><description>Question. Updated (v10) in site v0.22.51.</description></item>
 <item><title>Briefing: Briefing: Project or programme manager (updated)</title><link>https://php.oct.2026.newsroom.sgit.ai/briefings/pm/index.html</link><guid isPermaLink="false">briefing-pm@v19</guid><pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate><category>briefing</category><description>Briefing. Updated (v19) in site v0.22.51. What changed: https://php.oct.2026.newsroom.sgit.ai/versions/briefing-pm/index.html</description></item>
 <item><title>Briefing: Briefing: Curious reader (updated)</title><link>https://php.oct.2026.newsroom.sgit.ai/briefings/everyone/index.html</link><guid isPermaLink="false">briefing-everyone@v23</guid><pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate><category>briefing</category><description>Briefing. Updated (v23) in site v0.22.51. What changed: https://php.oct.2026.newsroom.sgit.ai/versions/briefing-everyone/index.html</description></item>

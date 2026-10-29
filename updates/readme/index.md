@@ -62,4 +62,4 @@ A markdown file in `admin/content/updates/`, named `__.md`, with front matter:
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/updates/readme/index.html
+site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/updates/readme/index.html
