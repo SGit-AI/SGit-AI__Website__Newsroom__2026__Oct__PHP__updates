@@ -2,13 +2,21 @@
 
 > Story: written here by this site, signed and dated. By the journalist.
 
-6 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
+7 versions of the journalist's state of affairs, newest first, each with what changed from the one before.
 
 View · the state of affairs · history
 
 # The state of affairs: every version
 
 Every version stays as it was written; the next one says what changed. Newest first.
+
+v6 · 29 October 2026, 01:53 UTC
+
+### [The state of affairs on 29 October: one vendor reports 25 servers rooted, unconfirmed, and still no named victim](../v6/index.html)
+
+Dream Research, a security vendor, reported on 26 October that a chain of the two php2shell flaws and a Linux kernel flaw rooted 25 servers, three in a US government-affiliated environment. It names no victim and no firewall vendor, publishes no evidence, and the three outlets that repeat it trace to its post; The Next Web says it has not verified it. It is carried as reported, not confirmed. No organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:09 UTC on 29 October.
+
+[What changed from v5 →](../v5-v6/index.html)
 
 v5 · 27 October 2026, 19:50 UTC
 
@@ -58,4 +66,4 @@ Reconstructed, not written at the time: what this site published with data as of
 
 
 ---
-site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/history/index.html

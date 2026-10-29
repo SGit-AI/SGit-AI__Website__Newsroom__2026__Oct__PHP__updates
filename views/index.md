@@ -10,9 +10,9 @@ Two things, kept apart. **The state of affairs** is one living page: what is kno
 
 ## The state of affairs, now
 
-[v5: The state of affairs on 27 October, evening: both vendor claims of a break-in withdrawn, and still no named victim27 October 2026, 19:50 UTC · Both security vendors that said php2shell had been used in a successful attack have withdrawn it, Sophos on 22 October and Palo Alto Networks' Unit 42 on 25 October. A fourth named incident without a stated cause, Square Enix, is now counted as open. CISA's listing stands, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 19:13 UTC on 27 October.](state/index.html)
+[v6: The state of affairs on 29 October: one vendor reports 25 servers rooted, unconfirmed, and still no named victim29 October 2026, 01:53 UTC · Dream Research, a security vendor, reported on 26 October that a chain of the two php2shell flaws and a Linux kernel flaw rooted 25 servers, three in a US government-affiliated environment. It names no victim and no firewall vendor, publishes no evidence, and the three outlets that repeat it trace to its post; The Next Web says it has not verified it. It is carried as reported, not confirmed. No organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:09 UTC on 29 October.](state/index.html)
 
-[Every version](state/history/index.html) · [what changed in the latest](state/v4-v5/index.html)
+[Every version](state/history/index.html) · [what changed in the latest](state/v5-v6/index.html)
 
 ## The analyses
 - [What changed in a day: no victim yet, four named cases tested, a patch moving through the supply chain, and firewalls on the list](https://php.oct.2026.newsroom.sgit.ai/articles/what-changed-in-a-day/) 2026-10-23
@@ -22,4 +22,4 @@ Two things, kept apart. **The state of affairs** is one living page: what is kno
 
 
 ---
-site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/views/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://updates.php.oct.2026.newsroom.sgit.ai/views/index.html

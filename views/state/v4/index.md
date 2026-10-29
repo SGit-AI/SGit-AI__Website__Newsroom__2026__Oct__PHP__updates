@@ -10,7 +10,7 @@ View · the state of affairs · v4 · 27 October 2026, 03:45 UTC
 
 On 26 October CISA added both php2shell CVEs to its Known Exploited Vulnerabilities catalog, the measure this desk has watched since the first day: it holds evidence the flaws are exploited. The listing names no victim, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 00:45 UTC on 27 October. Exploited and compromised are now two different answers.
 
-**Version** v4 of 5 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.43 · evidence vault `24f0b0e22666` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 00:45 UTC
+**Version** v4 of 6 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.43 · evidence vault `24f0b0e22666` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 00:45 UTC
 
 [← v3](../v3/index.html) · [what changed from v3](../v3-v4/index.html) · [v5 →](../v5/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
@@ -77,4 +77,4 @@ The claims that said neither CVE is in KEV (cisa-none, kev-precedent) are kept a
 
 
 ---
-site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v4/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v4/index.html

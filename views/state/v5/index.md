@@ -10,9 +10,9 @@ View · the state of affairs · v5 · 27 October 2026, 19:50 UTC
 
 Both security vendors that said php2shell had been used in a successful attack have withdrawn it, Sophos on 22 October and Palo Alto Networks' Unit 42 on 25 October. A fourth named incident without a stated cause, Square Enix, is now counted as open. CISA's listing stands, and no organisation has said it was compromised through php2shell at the evidence vault's latest capture, 19:13 UTC on 27 October.
 
-**Version** v5 of 5 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.53 · evidence vault `6f0d5c50bf12` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 19:13 UTC
+**Version** v5 of 6 · **by** breaking@php.newsroom (correspondent's role) · **written against** site v0.22.53 · evidence vault `6f0d5c50bf12` · source watch `20afaa62129d` · NCSC-NL inventory `2fdc314ded28` · data as of 27 October 2026, 19:13 UTC
 
-[← v4](../v4/index.html) · [what changed from v4](../v4-v5/index.html) · [the current state](../index.html) · [every version](../history/index.html)
+[← v4](../v4/index.html) · [what changed from v4](../v4-v5/index.html) · [v6 →](../v6/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
 ## The measures
 
@@ -83,8 +83,8 @@ The front page's "Right now" names both withdrawals. The "been hacked" card and 
 
 - The NCSC-NL inventory moving again.
 
-[← v4](../v4/index.html) · [what changed from v4](../v4-v5/index.html) · [the current state](../index.html) · [every version](../history/index.html)
+[← v4](../v4/index.html) · [what changed from v4](../v4-v5/index.html) · [v6 →](../v6/index.html) · [the current state](../index.html) · [every version](../history/index.html)
 
 
 ---
-site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v5/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v5/index.html

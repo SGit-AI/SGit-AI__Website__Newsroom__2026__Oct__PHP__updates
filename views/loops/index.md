@@ -102,11 +102,11 @@ Minutes from the source-watch queue the curator names to the curated head, to th
 ## The numbers
 
 ### Evidence
-675sources in the evidence vault741captures (saved pages)4331files with a sha25627evidence vault commits1460pages the source watch tracks (as of 28 Oct 17:46 UTC)4888source-watch snapshots (same date)
+681sources in the evidence vault747captures (saved pages)4361files with a sha25627evidence vault commits1460pages the source watch tracks (as of 28 Oct 17:46 UTC)4888source-watch snapshots (same date)
 Sources the site served, release by release.
 
 ### Review
-558claims in the evidence vault502verdicts: 135 agrees, 95 held back, 208 noted, 64 used21corrections by the correspondent (catches)84run records of the four roles
+593claims in the evidence vault537verdicts: 142 agrees, 99 held back, 216 noted, 80 used26corrections by the correspondent (catches)84run records of the four roles
 ### The site and its repository
 150releases to dev303commits on dev954HTML pages872markdown twins93 MBin 3082 tracked files17.9 MBof data, 510 JSON files7680lines in build.py
 
@@ -114,4 +114,4 @@ Built from [data/loops.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/l
 
 
 ---
-site v0.22.52 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://updates.php.oct.2026.newsroom.sgit.ai/views/loops/index.html

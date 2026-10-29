@@ -1,13 +1,15 @@
 {
  "from": {
-  "commit": "7c290cdbbb0edcb9cbe6c3f75d167a8ba5b8a5bd",
-  "site_version": "0.22.52"
+  "commit": "158617cf22e481c5a5a7f953f1b1156be526c125",
+  "site_version": "0.22.53"
  },
  "sources": {
   "content/updates/": "admin/content/updates/",
   "content/views/": "admin/content/views/"
  },
- "kept": [],
+ "kept": [
+  "content/views/state/v6.md"
+ ],
  "files": {
   "content/updates/2026-10-22T2003Z__daily.md": "15eda3ed872678d3f388506dac04cc15cb627bf6fec35166db682f9f5bf6f608",
   "content/updates/README.md": "e936bad80473465c960ca6259b56d32aaab645d3c62aaf0fd2b03159f4174a81",
@@ -16,6 +18,7 @@
   "content/views/state/v2.md": "07707e968af0df09339ccf2efe1f47fbb846b6ef8172220e19f4cae5bb635bdd",
   "content/views/state/v3.md": "92ce63daff6bc1ecb4ab154cd9c04ac4e29cd3860bc384f78fffed73f16eb60a",
   "content/views/state/v4.md": "189b5bd9bbf7edc86b331cf8c5c41cea6caae0d1dd5bcc929003ff4a01f52616",
-  "content/views/state/v5.md": "4152543b7f31b1b5ddb5606ad1a75d9ac2e8e9aa8b633c708985830cb30758ee"
+  "content/views/state/v5.md": "4152543b7f31b1b5ddb5606ad1a75d9ac2e8e9aa8b633c708985830cb30758ee",
+  "content/views/state/v6.md": "8f031181c81292fc9cb8ebec76f60c83f5aa5cefe41f767e42f2e33a8cd60a37"
  }
 }
