@@ -87,4 +87,4 @@ The front page's "Right now" names both withdrawals. The "been hacked" card and 
 
 
 ---
-site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v5/index.html
+site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v5/index.html

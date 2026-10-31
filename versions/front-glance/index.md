@@ -15,4 +15,4 @@ Is there a fix?: Yes (install PHP 8.5.12, 8.4.27, 8.3.36 or 8.2.35) How serious?
 
 
 ---
-site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://updates.php.oct.2026.newsroom.sgit.ai/versions/front-glance/index.html
+site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://updates.php.oct.2026.newsroom.sgit.ai/versions/front-glance/index.html

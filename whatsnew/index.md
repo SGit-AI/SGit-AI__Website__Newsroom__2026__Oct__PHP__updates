@@ -12,6 +12,22 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.55 · 31 October 2026new since your last visit
+
+press: dev: the daily wake's signed log to start the edition build (releases waiting since 0.22.54); data: journalist: batch 38 reviewed (8 claims); compromise stamps still held at the 09:42 pass, no Unit 42 or Palo Alto primary yet; team: desk: run record of the 00:40 wake, 30 October closed and 31 October opened; site: desk: close 30 October, open 31 October (the days); refs: dev: a signed log entry in the README, so refs' deploy takes edition 0.22.54 (the daily wake); updates: dev: a signed log, so updates's deploy takes edition 0.22.54 (the daily wake)
+
+1 fact reworded or re-sourced: [no-confirmed-compromise](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/).
+
+### Briefings that changed
+JJordanBoard member or executive · v28RRobinCISO · v26QQuinnCFO · v28RRileyMedia and communications team · v23AAlexCurious reader · v26TTaylorProject or programme manager · v22MMorganData protection officer · v20
+### Sections that changed
+- [Every claim](../versions/page-claims/index.html#v24) v24
+- [The method](../versions/page-method/index.html#v20) v20
+- [Impact: offline vs compromised](../versions/page-impact/index.html#v22) v22
+- [The specialist summary](../versions/page-summary/index.html#v23) v23
+- [Front page: right now](../versions/front-now/index.html#v14) v14
+- [Front page: the core facts](../versions/front-facts/index.html#v13) v13
+
 ## v0.22.54 · 30 October 2026new since your last visit
 
 press: dev: the daily wake's signed log to start the edition build (releases waiting since 0.22.53); data: journalist: batch 33 reviewed (6 claims), compromise line and as-of refreshed to the vault at cd9375f1aefd; team: desk: run record of the 00:40 wake, 29 October closed and 30 October opened; site: desk: close 29 October, open 30 October (the days); refs: dev: a signed log entry in the README, so refs' deploy takes edition 0.22.53 (the daily wake); updates: dev: a signed log, so updates's deploy takes edition 0.22.53 (the daily wake)
@@ -1435,7 +1451,7 @@ JJordanBoard member or executive · v7SSamSecurity lead · v6DDrewPHP or platfor
 factcheck run 2: the PHP security team answered the 'incomplete fix' report publicly at 09:11 UTC on 22 October (unrelated crash bug, nothing to do with the RCE), so the front page's 'not answered publicly yet' is out of date; contradiction K-011 and five pieces of outside evidence; KEV still lists neither CVE; no claim changed and no run-1 ticket can close yet; the desk now publishes to dev on the editor's instruction
 
 ### Facts whose status changed
-- [As of 17:13 UTC on 29 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
+- [As of 09:42 UTC on 30 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/): confirmed → reported
 
 ### Briefings that changed
 JJordanBoard member or executive · v6RRobinCISO · v6QQuinnCFO · v6RRileyMedia and communications team · v5AAlexCurious reader · v4TTaylorProject or programme manager · v4
@@ -1712,7 +1728,7 @@ the code read from php-src, php2shell in context against ten earlier flaws, an i
 - [No traffic matching the php2shell exploit patterns was seen during Imperva's pre-disclosur](https://refs.php.oct.2026.newsroom.sgit.ai/facts/imperva-none/) reported
 - [No exploitation observed on Huntress partner systems as of 20:30 UTC on 21 October; no pub](https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/) reported
 - [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](https://refs.php.oct.2026.newsroom.sgit.ai/facts/watchtowr-itw/) unverified
-- [As of 17:13 UTC on 29 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
+- [As of 09:42 UTC on 30 October, no named organisation has said it was compromised through p](https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/) confirmed
 - [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechani](https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/) reported
 - [Triggering the bug is much easier than turning it into code execution; the CVSS vector say](https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/) confirmed
 - [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 U](https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-authored/) confirmed
@@ -1812,4 +1828,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
