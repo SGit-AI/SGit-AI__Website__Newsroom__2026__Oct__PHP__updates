@@ -15,4 +15,4 @@ v2 · site v0.22.43 · 27 October 2026 · 1 lines added or changed, 1 removed or
 
 
 ---
-site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-glossary/index.html
+site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/page-glossary/index.html
