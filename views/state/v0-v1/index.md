@@ -42,4 +42,4 @@ Removed lines are struck through, added lines are marked; within an edited line,
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v0-v1/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://updates.php.oct.2026.newsroom.sgit.ai/views/state/v0-v1/index.html

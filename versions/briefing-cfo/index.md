@@ -15,4 +15,4 @@ v28 · site v0.22.55 · 31 October 2026 · 2 lines added or changed, 2 removed o
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-cfo/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://updates.php.oct.2026.newsroom.sgit.ai/versions/briefing-cfo/index.html

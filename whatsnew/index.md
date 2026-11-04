@@ -12,6 +12,14 @@ Every release of this site, newest first, with what changed in it for readers: f
 
 New evidence (for example the first confirmed compromise of a named organisation) reaches this page only once it has been captured into the evidence vault and turned into a fact with sources. Until then it is not on this site, however widely it is reported.
 
+## v0.22.58 · 4 November 2026new since your last visit
+
+press: dev: the daily wake's signed log to start the edition build (releases waiting since 0.22.57); data: researcher: source-watch.json from the watch pass of 3 November 17:08 to 18:16 UTC; team: desk: run record of the 00:40 wake, 3 November closed and 4 November opened; site: desk: close 3 November, open 4 November (the days); refs: dev: a signed log entry in the README, so refs' deploy takes edition 0.22.57 (the daily wake); updates: dev: a signed log, so updates's deploy takes edition 0.22.57 (the daily wake)
+
+### Sections that changed
+- [The method](../versions/page-method/index.html#v23) v23
+- [The specialist summary](../versions/page-summary/index.html#v26) v26
+
 ## v0.22.57 · 3 November 2026new since your last visit
 
 press: dev: the daily wake's signed log to start the edition build (releases waiting since 0.22.56); data: journalist: batch 44 reviewed (5 claims); compromise stamps still held, no primary on Dream's report; team: desk: run record of the 00:40 wake, 2 November closed and 3 November opened; site: desk: close 2 November, open 3 November (the days); refs: dev: a signed log entry in the README, so refs' deploy takes edition 0.22.56 (the daily wake); updates: dev: a signed log, so updates's deploy takes edition 0.22.56 (the daily wake)
@@ -1844,4 +1852,4 @@ JJordanBoard member or executive · newSSamSecurity lead · newDDrewPHP or platf
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://updates.php.oct.2026.newsroom.sgit.ai/whatsnew/index.html
